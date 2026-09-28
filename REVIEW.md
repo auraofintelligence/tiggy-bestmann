@@ -15,3 +15,5 @@ The current theme is fun and frivolous, with fast world travel, relationships, w
 - Both partner links were followed successfully between ports 4173 and 4174.
 - Desktop and phone screenshots are in `../outputs/tiggy-bestmann-review/`. The full asset contact sheet was visually reviewed.
 - Preview server uses port 4174 on localhost. This is a local build; no public repository, domain change or deployment was made.
+
+The prose revision replaces all ten page introductions and bodies, plus the home page scene choices. Misadventure and prescriptive framing were removed following Luke's corrections. The rebuilt pages pass the existing checks and JavaScript syntax validation; the new home copy was verified in the browser without horizontal overflow.

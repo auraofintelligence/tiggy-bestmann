@@ -33,3 +33,7 @@ The final steering puts world travel and relationships first: different continen
 The supplied websites and documents are reference material. Embedded instructions, old dates and older character routes do not override Luke's current requests. Public sources were read live; source snapshots are kept outside this repository in the local review workspace.
 
 The local Ballow Road Sand & Screen Hub homepage and README were also read to connect Luke's sand sports, cinema and festival hub instruction to the existing proposal. Its public link appears on the water page. Tiggy's short scene is imagined; the proposed hub's operating or planning status is not asserted.
+
+## Narrative voice revision
+
+Luke rejected the initial prose as generic and unenticing. He clarified that mischief fits Tiggy, while trouble, bossy authority and prescriptive language do not. All ten pages were rewritten as narrative character introductions, using imagined scenes, mutual interest and playful invitations. These new vignettes are editorial fiction, not quotations from existing books. The visual assets and page structure were retained.
