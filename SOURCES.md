@@ -37,3 +37,5 @@ The local Ballow Road Sand & Screen Hub homepage and README were also read to co
 ## Narrative voice revision
 
 Luke rejected the initial prose as generic and unenticing. He clarified that mischief fits Tiggy, while trouble, bossy authority and prescriptive language do not. All ten pages were rewritten as narrative character introductions, using imagined scenes, mutual interest and playful invitations. These new vignettes are editorial fiction, not quotations from existing books. The visual assets and page structure were retained.
+
+Luke then identified a persistent dominance bias: women initiating encounters had been incorrectly expanded into women directing Tiggy, educating him romantically or deciding for the group. That hierarchy was not requested. The subsequent pass removed those constructions across the site. Women still initiate first encounters; the resulting scenes give everyone their own agency, contributions and enjoyment. Student of life describes curiosity and experience, not a subordinate romantic role. The requested Aura teacher-training proposal remains a source concept, not a model for the relationships.
