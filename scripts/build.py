@@ -4,8 +4,8 @@ from html import escape
 import os
 
 ROOT = Path(__file__).resolve().parents[1]
-SIRE_URL = os.environ.get('SIRE_PARTNER_URL', 'http://127.0.0.1:4173/')
-VERSION = '20260929-4'
+SIRE_URL = os.environ.get('SIRE_PARTNER_URL', 'https://auraofintelligence.github.io/australiansire/')
+VERSION = '20261001-public'
 
 PAGES = [
     dict(slug='index', title='Tiggy Bestmann', intro='Artist. Traveller. Happy-go-lucky fool. A taste for a little mischief.', image='opening-world', alt='Two adult women, one visibly pregnant, welcome the long-haired Tiggy at an Istanbul ferry landing and draw him into a lively conversation.', caption='An invitation on the Bosphorus. Imagined Istanbul encounter. GenAI artwork.', colour='lemon', body='''
@@ -131,5 +131,5 @@ for i,p in enumerate(PAGES):
 <article class="prose" aria-label="{escape(p['title'],quote=True)}">{p['body']}</article>{extra}
 <section class="partner-panel"><div><h2>Meet Australian Sire</h2><p>A writer whose travels open into desire, shared lives and global group marriages. Another expression of Luke’s imagined world.</p></div><a href="{escape(SIRE_URL,quote=True)}">Visit the partner site ↗</a></section></main>
 <nav class="page-turn" aria-label="Previous and next pages"><a rel="prev" href="{prev['slug']}.html"><span>← Previous</span><strong>{escape(prev['title'])}</strong></a><a rel="next" href="{nxt['slug']}.html"><span>Next →</span><strong>{escape(nxt['title'])}</strong></a></nav>
-<footer><p>Tiggy Bestmann<br>A fictional character by Luke Nathan Hayes.</p><a href="sitemap.html">Site map ↗</a></footer><a class="to-top" href="#top" aria-label="Back to top">↑</a></body></html>''',encoding='utf-8')
+<footer><p>Tiggy Bestmann<br>A fictional character by Luke Nathan Hayes.</p><nav class="footer-links" aria-label="Related sites and licence"><a href="sitemap.html">Site map ↗</a><a href="https://auraofintelligence.github.io/australian-sire-story-forge/">Story Forge</a><a href="https://auraofintelligence.github.io/loose-goose-comedy-engine/">Loose Goose Comedy Engine</a><a href="https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/">Man and Mind</a><a href="https://github.com/auraofintelligence/tiggy-bestmann/blob/main/LICENCE.md">Strange But True licence</a></nav></footer><a class="to-top" href="#top" aria-label="Back to top">↑</a></body></html>''',encoding='utf-8')
 print(f'Built {len(PAGES)} Tiggy pages.')
