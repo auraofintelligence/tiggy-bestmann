@@ -6,6 +6,8 @@ Luke expanded the horizon to humanity across planets, Kardashev ambitions and en
 
 The character pages retain that open scope and direct narrative voice. Current-work links were checked against NASA’s Moon to Mars strategy and Google DeepMind’s Gemini Robotics publication. Kardashev’s original 1964 paper supplies the energy-scale reference. Contact and extra-dimensional travel remain fictional possibilities; the site does not attribute those achievements to today’s researchers. The existing Global Group Marriages U.N. of Love and GAJRA Earth pages were reread for the marriage and planetary connections.
 
+The subsequent editorial pass shortened the group marriage material across both sites. Tiggy’s company page links to Sire’s fuller relationship exploration. The repeated partner panel introduces Sire’s character rather than repeating group marriage as his defining purpose. The United Nations of Love explanation lives in Sire’s group marriage chapter, with GAJRA Earth’s planetary context on his worlds page.
+
 ## Current direction
 
 Luke requested a separate partner site for Tiggy Bestmann on 29 September 2026: the happy-go-lucky fool, artist and student of life. It should be the same size as Australian Sire's ten-page site, with a different theme. Later steering specified fun and frivolous, no sketchbook treatment, younger adult women in their twenties and thirties, and pregnant women too.
