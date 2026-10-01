@@ -55,7 +55,7 @@ PAGES = [
 <p>His pregnant collaborator turns the sculpture while he changes the pattern of light. Her friend suggests adding sound. By lunch, their experiment has become something none of them arrived with. By dinner, the conversation has travelled well beyond it.</p>
 <h2>The company continues</h2>
 <p>Over dinner, she mentions the music drifting up from the beach. Tiggy has heard it too. They wander down together, shoes in hand, talking until the conversation gives way to dancing.</p>
-<p>Luke’s Aura proposal gives these fictional scenes a five-day retreat and a nine-day teacher-training format, with coastal Goa among the possible settings. Around the workshop tables, people bring their own experience, exchange skills and make something none of them had imagined alone.</p>
+<p>The Aura retreat proposal sets out five days of creative exploration, with a nine-day teacher-training format for a longer stay. Coastal Goa is one proposed setting. Around the workshop tables, people bring their own experience, exchange skills and make something none of them had imagined alone.</p>
 <p>By the end of the week, their next experiment already has a place and a date. Neither seems in much of a hurry to say goodnight.</p>'''),
     dict(slug='out-about', title='Three days in town', intro='A workshop finished. A boat arriving. An evening unfolding between them.', image='out-about-world', alt='Two adult Thai women invite Tiggy to an evening gathering beside a Bangkok canal and an arriving passenger boat.', caption='The boat is coming. The evening is open. Imagined Bangkok encounter. GenAI artwork.', colour='lemon', body='''
 <p class="lead">Bangkok. The workshop is finished, and the three of them are watching the evening boats slide past.</p>
@@ -97,13 +97,13 @@ PAGES = [
 <h2>After the applause</h2>
 <p>Tiggy likes the whole life around a performance. Rehearsal, set-up, the show itself, then food with the people who made it happen. There are stories you only hear when the equipment is packed and nobody needs to watch the time quite so closely.</p>
 <p>The singer has saved him a place at the table. Now he gets to hear what she sounds like when she is simply enjoying the conversation.</p>
-<p>The <a href="https://auraofintelligence.github.io/i-C-infinity-music-universe/">i C. infinity music universe</a> gives this side of Tiggy room to grow: songs, characters and imagined lives with an audience to share them.</p>'''),
+<p>More songs, characters and imagined lives await in the <a href="https://auraofintelligence.github.io/i-C-infinity-music-universe/">i C. infinity music universe</a>.</p>'''),
     dict(slug='possibilities', title='How big are we talking?', intro='Festivals between worlds. Humanity across planets. An invitation into a much larger universe.', image='possibilities-world', alt='Two Kenyan artists share a model of a floating cinema and festival venue with Tiggy at a Nairobi evening reception.', caption='A formal invitation. A much less formal conversation. Imagined Nairobi reception. GenAI artwork.', colour='lemon', body='''
 <p class="lead">Tiggy arrives at a Nairobi reception. The model on the table suggests he has drastically underdressed his imagination.</p>
 <p>A screen rises above the water. Walkways connect stages, gardens and places to sit. The artist beside him points out where the audience arrives. Her colleague asks what he would put on the opening programme.</p>
 <p>He has an answer. Her expression suggests she rather likes it.</p>
 <h2>An opening night on the water</h2>
-<p>In Nairobi, the scene is an elegant reception and a very ambitious model. Elsewhere it could be a festival linked across cities, a responsive world built by its visitors or a performance he has travelled halfway around the planet to help deliver.</p>
+<p>Beyond the Nairobi reception, his travels lead into festivals linked across cities, worlds that respond to their visitors and performances he has travelled halfway around the planet to help deliver.</p>
 <p>Aura’s <a href="https://auraofintelligence.github.io/aura-events.html">events concept</a> stretches from intimate gatherings to grand galas and global festivals. <a href="https://auraofintelligence.github.io/space-industry.html">Moonlight Frontier</a> goes further, imagining low-gravity sport and lunar adventure. Tiggy is already picturing the game, the view and the people he would like to take with him.</p>
 <h2>Someone has to make it happen</h2>
 <p><a href="https://auraofintelligence.github.io/project-atlas/site-map.html">Project Atlas</a> connects the work behind these possibilities. <a href="https://auraofintelligence.github.io/gajra-earth-claude-build/ahead.html">GAJRA Earth’s Ahead</a> follows dated meetings and openings to contribute. For Tiggy, the idea comes alive around the table, talking through his part with people he wants to work with.</p>

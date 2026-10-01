@@ -8,6 +8,8 @@ The character pages retain that open scope and direct narrative voice. Current-w
 
 The subsequent editorial pass shortened the group marriage material across both sites. Tiggy’s company page links to Sire’s fuller relationship exploration. The repeated partner panel introduces Sire’s character rather than repeating group marriage as his defining purpose. The United Nations of Love explanation lives in Sire’s group marriage chapter, with GAJRA Earth’s planetary context on his worlds page.
 
+Public prose is for readers discovering the work. Editorial reminders and explanations of why the builder included material belong in these working notes. Scene descriptions introduce imagined experiences directly; proposal status, author context and artwork provenance remain explicit where useful.
+
 ## Current direction
 
 Luke requested a separate partner site for Tiggy Bestmann on 29 September 2026: the happy-go-lucky fool, artist and student of life. It should be the same size as Australian Sire's ten-page site, with a different theme. Later steering specified fun and frivolous, no sketchbook treatment, younger adult women in their twenties and thirties, and pregnant women too.
