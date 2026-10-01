@@ -10,9 +10,9 @@ menuButton.addEventListener('click',()=>setMenu(menu.hidden));
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!menu.hidden)setMenu(false,true);});
 document.addEventListener('click',event=>{if(!menu.hidden&&!menu.contains(event.target)&&!menuButton.contains(event.target))setMenu(false);});
 const moods={
-  make:['From Glastonbury to Sway.','The wish to perform began while Luke was helping set up Glastonbury in 2004. Learning to perform i C. infinity with Sway is the next exploration.','music.html','From Glastonbury to Sway'],
-  wander:['Bodyboarding epic waves.','The wave ambition brings physical skill, timing and the Ocean Master into the adventure. Beach life, sand sports and outdoor cinema give the shore its own pleasures.','water.html','Sand, salt and screen'],
-  company:['Fast travel, full days.','Every country and territory, with room to meet, share, learn and teach. Work, relationships and opportunities keep the route open.','out-about.html','Fast travel, full days']
+  make:['From Glastonbury to Sway.','The festival crew days left a lasting dream: to return as a performer. Sway is on its way, and i C. infinity is the music he wants to bring to life.','music.html','From Glastonbury to Sway'],
+  wander:['Bodyboarding epic waves.','An approaching swell, a well-timed ride and company back on shore. Bodyboarding, sand sports and a film after sunset draw him towards the coast.','water.html','Sand, salt and screen'],
+  company:['Fast travel, full days.','Every country and territory is the ambition. Work brings him into new places; people he wants to see again help shape the next journey.','out-about.html','Fast travel, full days']
 };
 document.querySelectorAll('[data-mood]').forEach(button=>button.addEventListener('click',()=>{
   document.querySelectorAll('[data-mood]').forEach(other=>other.setAttribute('aria-pressed',String(other===button)));

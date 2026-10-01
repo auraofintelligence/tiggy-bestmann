@@ -1,5 +1,11 @@
 # Character and source notes
 
+## Artwork and coherence review, 1 October 2026
+
+Luke requested new imagery matching the revised text, then a whole-site language and flow review. The public chapters now develop distinct parts of Tiggy’s life without narrating editorial choices, naming source records or explaining why a topic was included. Repeated scope summaries have been shortened; image captions, descriptions and the homepage interest controls follow the revised copy. Source provenance and working instructions stay in this document.
+
+The music image imagines a first Sway rehearsal; the art image connects memory and digital twins; the fool image follows adult shared humour; the possibilities image visualises the Forge’s Worldbuilding Challenge Festival. Audima’s official batch-4 page and product render were checked for the controller’s identity, appearance and gesture interaction. Its current delivery estimate agrees with Luke’s November/December 2026 expectation, but arrival remains expected rather than confirmed. Generation prompts and reference roles are recorded in ARTWORK.md.
+
 ## Source review, music and history, 1 October 2026
 
 Luke asked for a list of Story Forge ingredients before editing, and warned against swinging too far in another direction. The current public Forge and its `assets/story-data.js` were read on 1 October. The review distinguishes actual Forge traits and optional ingredients, Luke's newer instructions, and scenes invented during the earlier build. The character, travel, relationships, retreat concepts and larger future horizon remain; unsupported specific schedules, dialogue, performances and commitments have been replaced with profile prose.
@@ -12,7 +18,7 @@ Luke's 2004 UK working holiday included setting up Glastonbury, when the ambitio
 
 Luke also supplied the flashback and mapping direction: any part of his history is available for exploration; the public work map and a planned travel history map contribute to remembering and mapping digital twins of body, mind and place/soul story. The art page connects these themes without inventing memories or presenting a planned map as already published.
 
-The ten existing images remain generated visual interpretations of possible settings. Their depicted cities, people and activities do not establish episodes in the character's history. No new artwork was requested in this revision.
+Four page heroes were subsequently replaced at Luke’s request: the fool, art and memory, music, and future possibilities. Their new scenes match the revised themes. All ten images remain visual interpretations rather than established episodes in the character’s history.
 
 ## Three personalities and the name origin, 1 October 2026
 

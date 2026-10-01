@@ -27,7 +27,7 @@ The normal build uses Python's standard library. Page text lives in `scripts/bui
 
 ## Status
 
-Published from the public GitHub repository through GitHub Pages. The images are imagined scenes. No finished books, songs or real events are claimed by this profile.
+Published from the public GitHub repository through GitHub Pages. Luke's festival work, music and history maps feed the fiction; Glastonbury performance remains an ambition. Generated scenes are imagined encounters.
 
 See `SOURCES.md`, `ARTWORK.md` and `REVIEW.md` for the brief, provenance and verification.
 
