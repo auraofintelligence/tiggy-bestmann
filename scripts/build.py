@@ -18,6 +18,7 @@ PAGES = [
 <p>His travels have a purpose and a pace. There are projects to deliver, workshops to run and people expecting him. He gets involved, puts in the effort and makes room for pleasure while he is there.</p>
 <p>An outback festival needs a pair of hands. A Goa retreat needs an artist. A Nairobi reception leads to a private invitation. A woman asks whether he has time to see the city with her. His flight is tomorrow evening. They start talking about breakfast.</p>
 <p>Her interest is clear. So is his smile.</p>
+<p>Tiggy is Luke’s innocent fool: playful, affectionate and open to women of many forms and personalities. <a href="fool.html#the-name">His name began with a childhood dog, a street and a game.</a></p>
 <h2>The pleasure of being invited</h2>
 <p>He wants every country and territory, and more than a glimpse of each. There are things he wants to share, people he wants to learn from and places he wants to return to because of someone he met there.</p>
 <p>The route stays open. So does his romantic life. A friend from the festival joins him for the next journey. A flirtation draws him into a whole circle of people with an expansive idea of love.</p>
@@ -28,6 +29,11 @@ PAGES = [
     dict(slug='fool', title='The happy-go-lucky fool', intro='He takes the joke and adds something of his own.', image='fool-outback', alt='Tiggy and two adult event crew members laugh while moving a drooping giant bird prop at an Australian outback arts gathering.', caption='A small setback in a very large idea. Imagined outback gathering. GenAI artwork.', colour='orange', body='''
 <p class="lead">“Something memorable?” she suggests, holding up a jacket the colour of a tropical bird. Tiggy produces a shirt that could give it competition. They both start laughing.</p>
 <p>He likes a playful exchange. A little teasing, a ridiculous challenge, an invitation delivered with a perfectly straight face. One joke becomes another until neither remembers who started it.</p>
+<h2 id="the-name">A dog, a street and a game</h2>
+<p>Luke’s childhood dog was called Tiggy. Tiggy was also the name for the game of tag he played then: running, laughing and wanting another turn. Bestmann Road was his childhood street.</p>
+<p>First pet plus first street: the old make-your-porn-star-name game produced Tiggy Bestmann. The joke also asks for two familiar account-recovery answers. Luke tells the origin openly. The name joins childhood play with an adult sense of mischief.</p>
+<p>That playful spirit lives in the character: the innocent fool with love in abundance, wanting joyful, energetic and exploratory companionship. He is an adult artist and traveller, still delighted when someone wants to play.</p>
+<p><a href="https://auraofintelligence.github.io/australiansire/writer.html#three-personas">Luke, Tiggy and Australian Sire</a> opens the fuller story of the three personalities in Luke’s romantasy.</p>
 <h2>There is nerve beneath the grin</h2>
 <p>The fool is an artist willing to put an unusual idea in front of people. He will perform the song, wear the outfit, try the dance and ask the question everybody else is politely avoiding.</p>
 <p>A joke travels around the room, picking up a new detail with each telling. By the time it returns to Tiggy, he is laughing as hard as anyone.</p>
@@ -81,8 +87,8 @@ PAGES = [
     dict(slug='company', title='The invitation matters', intro='She makes room beside her. He enjoys the invitation.', image='company-world', alt='Tiggy talks closely with two adult women, one visibly pregnant, at an art-filled rooftop gathering in Mexico City.', caption='The conversation has become the best part of the evening. Imagined Mexico City gathering. GenAI artwork.', colour='orange', body='''
 <p class="lead">She could have sent him the name of the restaurant. Instead, she comes to collect him.</p>
 <p>Her friend is waiting downstairs. They have been talking about an exhibition, dinner and a rooftop view since yesterday. Tiggy has been looking forward to seeing them again.</p>
-<h2>A particular appetite</h2>
-<p>Adult women in their twenties and thirties, very full busts, pregnancy, confidence and cheek: Tiggy’s romantic imagination has its own distinct tastes. He enjoys direct interest and the pleasure of a woman choosing his company.</p>
+<h2>The pleasure of her company</h2>
+<p>Tiggy is drawn to adult women of many forms and personalities. A shared laugh, lively curiosity and the pleasure of exploring together draw him closer. There is no fixed body type at the heart of his attraction; he wants to enjoy the woman he is with.</p>
 <p>She begins the first encounter. He responds with interest of his own. Their conversation moves easily between curiosity and flirtation, each finding something in the other that makes them want to stay.</p>
 <h2>More people to love. More world to share.</h2>
 <p>He wants to love and be loved while his life keeps moving. A relationship might grow through return visits, shared journeys, creative work or an invitation into an established circle of friends and lovers.</p>
@@ -123,6 +129,7 @@ PAGES = [
 <p>Tiggy’s world unfolds through ten connected pages of travel, art, work, romance and playful possibilities. Each opens a different part of the life he wants to enjoy.</p>
 <h2>Behind the stories</h2>
 <p>The <a href="https://auraofintelligence.github.io/australian-sire-story-forge/">Australian Sire Story Forge</a> holds the developing characters and possibilities. <a href="https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/">Man and Mind</a> introduces Luke Nathan Hayes, their creator.</p>
+<p><a href="fool.html#the-name">Where Tiggy’s name began</a> leads back to Luke’s childhood. <a href="https://auraofintelligence.github.io/australiansire/writer.html#three-personas">Luke, Tiggy and Sire</a> introduces their different romantic personalities.</p>
 <p>The <a href="https://auraofintelligence.github.io/sitemap.html">Aura site map</a> and <a href="https://auraofintelligence.github.io/project-atlas/site-map.html">Project Atlas</a> open the wider collection of projects and imagined futures that give these stories their settings and ambitions.</p>'''),
 ]
 

@@ -1,5 +1,13 @@
 # Character and source notes
 
+## Three personalities and the name origin, 1 October 2026
+
+Luke supplied a personal origin story directly in this conversation. Tiggy was his childhood pet dog; tiggy/tag was a childhood game; Bestmann Road was his childhood street. The first-pet-plus-first-street adult-name game produced Tiggy Bestmann. Luke explicitly chose to tell this origin openly, including the connection to familiar account-recovery questions.
+
+This clarification supersedes the earlier fixed attraction list on the company page. Tiggy's attraction is open to adult women of many forms and personalities; playful, joyful, energetic and exploratory companionship is the draw. Earlier age and pregnancy requests remain the brief for the existing individual images, not exclusive limits on his attraction. Australian Sire is the older, more refined and selective expression, exploring fertility, deep biases and specific fetishes. Luke Nathan Hayes / Luke Catalyst is the balanced middle ground, with expression depending on the frame and adults involved. These are creative personas and author self-description, not clinical personality claims.
+
+The fuller comparison lives on Australian Sire's writer page, linked from Tiggy's name story and site map. The name origin is author biography supplied by Luke, not an invented childhood for the fictional character. Other imagined scenes retain their established provenance.
+
 ## Expanded universe scope, 1 October 2026
 
 Luke expanded the horizon to humanity across planets, Kardashev ambitions and encounters with extraterrestrial and extra-dimensional civilisations, with today’s global space, AI and robotics work as starting points. He also asked for proper depth on Global Group Marriages, the United Nations of Love marriage simulacrum and GAJRA Earth, then clarified that these belong within the scope of potential and are not necessarily its centre.

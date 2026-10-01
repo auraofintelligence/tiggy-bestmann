@@ -5,7 +5,9 @@ Repository: https://github.com/auraofintelligence/tiggy-bestmann
 
 A separate ten-page partner site for Australian Sire. Tiggy is the happy-go-lucky fool, artist and student of life.
 
-The direction is fun and frivolous, with world travel and relationships at its centre. Different continents and cultures, outback gatherings, high society, sports, festivals, Aura retreats and creative work give the journey its variety. Trips are busy and time-limited, with work to do and plenty of fun around it. A sand sports, outdoor cinema and festival hub brings several interests together. Adult female characters are in their twenties and thirties, including visibly pregnant women. Tiggy keeps Luke's mature long-haired likeness. The site uses ten new generated heroes and an original generated favicon.
+The direction is fun and frivolous, with world travel and relationships at its centre. Different continents and cultures, outback gatherings, high society, sports, festivals, Aura retreats and creative work give the journey its variety. Trips are busy and time-limited, with work to do and plenty of fun around it. A sand sports, outdoor cinema and festival hub brings several interests together. The current artworks show adult women in their twenties and thirties, including visibly pregnant women. They are individual scenes, not an exhaustive attraction profile. Tiggy keeps Luke's mature long-haired likeness. The site uses ten new generated heroes and an original generated favicon.
+
+Luke's clarification on 1 October 2026 distinguishes three romantic personalities. Tiggy is the innocent fool, open to adult women of many forms and personalities through joyful, energetic and exploratory companionship. Australian Sire is older, more refined and selective, following fertility and specific deep desires. Luke Nathan Hayes / Luke Catalyst is the middle ground. Tiggy's name origin is on the fool page; the full comparison is on Sire's writer page. Do not carry Sire's specific physical preferences into Tiggy's profile.
 
 ## Local preview
 
