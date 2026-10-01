@@ -9,6 +9,8 @@ The direction is fun and frivolous, with world travel and relationships at its c
 
 Luke's clarification on 1 October 2026 distinguishes three romantic personalities. Tiggy is the innocent fool, open to adult women of many forms and personalities through joyful, energetic and exploratory companionship. Australian Sire is older, more refined and selective, following fertility and specific deep desires. Luke Nathan Hayes / Luke Catalyst is the middle ground. Tiggy's name origin is on the fool page; the full comparison is on Sire's writer page. Do not carry Sire's specific physical preferences into Tiggy's profile.
 
+The subsequent source review preserves this direction while removing unsupported specific scene details. Music connects Luke's 2004 Glastonbury crew work and performance ambition to learning i C. infinity with his purchased Sway controller, expected from batch 4 in November/December 2026. Art connects flashbacks, the existing work history map and a planned travel map with body, mind and place/soul story. Keep source ingredients, author-supplied history, present intentions and generated visual interpretations distinct. Do not fill gaps with invented dialogue, bookings, employment or accomplishments.
+
 ## Local preview
 
 Run `python -m http.server 4174 --bind 127.0.0.1` in this directory. Open http://127.0.0.1:4174/.

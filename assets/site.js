@@ -10,9 +10,9 @@ menuButton.addEventListener('click',()=>setMenu(menu.hidden));
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!menu.hidden)setMenu(false,true);});
 document.addEventListener('click',event=>{if(!menu.hidden&&!menu.contains(event.target)&&!menuButton.contains(event.target))setMenu(false);});
 const moods={
-  make:['The bird takes a bow.','She bows back. Tiggy joins her, and the crew starts laughing. Their outback stage build has acquired an opening act. Afterwards, she asks whether he is staying for dinner.','fool.html','The happy-go-lucky fool'],
-  wander:['She has saved him a seat.','The volleyball net is down, the screen is lit and there is salt drying in his hair. She waves him over. Her friends have brought food; someone has remembered his drink.','water.html','Sand, salt and screen'],
-  company:['There is a band downstairs.','The artist has shown him the floating festival model. Now she mentions a singer she thinks he would enjoy. Her colleague is already smiling at the prospect of all three going together.','possibilities.html','An evening in Nairobi']
+  make:['From Glastonbury to Sway.','The wish to perform began while Luke was helping set up Glastonbury in 2004. Learning to perform i C. infinity with Sway is the next exploration.','music.html','From Glastonbury to Sway'],
+  wander:['Bodyboarding epic waves.','The wave ambition brings physical skill, timing and the Ocean Master into the adventure. Beach life, sand sports and outdoor cinema give the shore its own pleasures.','water.html','Sand, salt and screen'],
+  company:['Fast travel, full days.','Every country and territory, with room to meet, share, learn and teach. Work, relationships and opportunities keep the route open.','out-about.html','Fast travel, full days']
 };
 document.querySelectorAll('[data-mood]').forEach(button=>button.addEventListener('click',()=>{
   document.querySelectorAll('[data-mood]').forEach(other=>other.setAttribute('aria-pressed',String(other===button)));

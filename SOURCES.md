@@ -1,5 +1,19 @@
 # Character and source notes
 
+## Source review, music and history, 1 October 2026
+
+Luke asked for a list of Story Forge ingredients before editing, and warned against swinging too far in another direction. The current public Forge and its `assets/story-data.js` were read on 1 October. The review distinguishes actual Forge traits and optional ingredients, Luke's newer instructions, and scenes invented during the earlier build. The character, travel, relationships, retreat concepts and larger future horizon remain; unsupported specific schedules, dialogue, performances and commitments have been replaced with profile prose.
+
+Relevant Forge records include `honest_fool`, `the_triumvirate`, `the_tiggy_bestmann_score`, `tils_hero_jack_all_trades`, `tils_hero_awkward_aloof`, `tils_hero_sharing_caring_sensual`, `tils_plot_philosophy_art_science`, `rps_work_many_trades`, `rps_work_dream_aura_team`, `rps_ambition_music`, `rps_ambition_epic_waves`, `rps_influence_ocean_master`, `travel_oracle_system`, `retreat_pod`, `the_worldbuilding_challenge_festival` and `tils_conversation_flashbacks`. These are interests, traits or possible story ingredients, not proof that a particular encounter has occurred.
+
+Luke then supplied the new music thread directly: he has bought an Audima Labs Sway MIDI controller from batch 4 and expects arrival in November/December 2026. Tiggy will explore learning to perform his i C. infinity music with it once it arrives. The expectation is Luke's account, not a guaranteed manufacturer delivery date. Audima's official website was checked for the product identity; no compatibility or performance results are claimed.
+
+Luke's 2004 UK working holiday included setting up Glastonbury, when the ambition to perform there someday began. The public work map's `waap` record corroborates festival work with W.A.A.P. Wing and a Prayer Event Services. Performing at Glastonbury remains an ambition, not a booking. The new music page links the work map, Audima and the i C. infinity music universe.
+
+Luke also supplied the flashback and mapping direction: any part of his history is available for exploration; the public work map and a planned travel history map contribute to remembering and mapping digital twins of body, mind and place/soul story. The art page connects these themes without inventing memories or presenting a planned map as already published.
+
+The ten existing images remain generated visual interpretations of possible settings. Their depicted cities, people and activities do not establish episodes in the character's history. No new artwork was requested in this revision.
+
 ## Three personalities and the name origin, 1 October 2026
 
 Luke supplied a personal origin story directly in this conversation. Tiggy was his childhood pet dog; tiggy/tag was a childhood game; Bestmann Road was his childhood street. The first-pet-plus-first-street adult-name game produced Tiggy Bestmann. Luke explicitly chose to tell this origin openly, including the connection to familiar account-recovery questions.
