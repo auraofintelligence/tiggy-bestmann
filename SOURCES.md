@@ -1,5 +1,9 @@
 # Character and source notes
 
+## Desire and existing relationships, 2 October 2026
+
+Luke clarified the quoted pregnancy passage: the wish includes consensual conception and appreciation of pregnant women, with first encounters invited by interested single women in uncomplicated circumstances. He does not intend to pursue every pregnant woman, impregnate every woman, tempt anyone away from a partner or husband, or encourage broken vows. Open intentions and reciprocal enjoyment remain central. The company chapter now expresses that distinction in two short paragraphs. Other chapter prose and all artwork are preserved.
+
 ## Comparable depth with Australian Sire, 1 October 2026
 
 Luke requested equivalent size and scope with different stories, locations and parts of Story Forge entwined with his life moments. This expansion keeps ten chapters and the established reading order, while increasing Tiggy's main chapter prose from roughly 1,900 to 3,700 words. Sire's corresponding chapter prose is roughly 3,500 words; homepage extras and chapter previews are additional in both sites. These measurements guided depth, not the prose or character's preferences.

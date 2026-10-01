@@ -43,7 +43,8 @@ PAGES = [
 <p>A first encounter begins with the woman or women approaching him. Tiggy answers with his own humour, interest and desire. Each has something to bring to the meeting, and each enjoys finding out what the others have in mind.</p>
 <h2>Desire in many forms</h2>
 <p>His attraction reaches across different bodies, backgrounds and personalities. A woman’s cheekiness, energy or delight in an idea is as much a part of the encounter as the way she looks at him. Quiet warmth and exuberant flirtation give him different pleasures.</p>
-<p>Pregnant women are among those he hopes to share affection, sex and adventure with.</p>
+<p>His desires include conceiving a child with a consenting woman who shares that wish, and appreciating the beauty of pregnancy. He hopes to meet single women who are interested in him, start the conversation and invite him into an honest, uncomplicated connection.</p>
+<p>He respects existing relationships and vows, with no wish to draw anyone away from a partner or husband. Affection, sex and adventure follow mutual interest, with intentions openly expressed. Conception belongs to a particular shared wish, rather than a goal for every encounter.</p>
 <h2>Love across a travelling life</h2>
 <p>He enjoys the freshness of a new meeting and the familiarity of someone he already loves. A journey brings departures as well as arrivals. He wants relationships that stay alive through messages, shared projects and occasions to be together again, alongside the freedom to keep exploring.</p>
 <p>Luke’s travels in Thailand included both a journey with a girlfriend and later visits alone. His memories of forthright invitations, friendship and attraction give Tiggy’s travel romances a lived starting point. The fiction follows its own encounters from there.</p>
