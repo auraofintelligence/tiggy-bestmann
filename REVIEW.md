@@ -1,5 +1,9 @@
 # Site review
 
+## Reader prose review, 1 October 2026
+
+Reviewed all ten chapter bodies for generic activity summaries, editorial reminders, proposal pitches, repeated character lists and prescriptive or dominant framing. Revised each for adult readers discovering Tiggy, with a distinct purpose per page. The water chapter now opens with the approved imagined surf scene; its proposal link sits in the site map. The homepage Waves preview matches the new chapter. Artwork and layout remain as approved. Source and fiction boundaries are recorded in SOURCES.md.
+
 The ten-page partner site was first built on 29 September 2026. A whole-site language and flow review on 1 October now aligns the character profile, music, memory, travel, relationships and wider future chapters.
 
 The public prose introduces Tiggy to readers. Editorial explanations of inclusion, source-record names and repeated scope reminders have been removed. Each chapter develops its own subject; the home page and site map provide the connections.

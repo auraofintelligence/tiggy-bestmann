@@ -1,5 +1,11 @@
 # Character and source notes
 
+## Reader-facing prose review, 1 October 2026
+
+Luke rejected the water-page activity summary and asked for the same faults to be checked across all ten pages. The revision addresses adult readers discovering Tiggy and the developing science-fiction romantasy. Every chapter body was reviewed and revised, preserving its distinct subject, supplied history, character preferences and existing artwork. The water lead and shore paragraphs evoke the approved illustrative scene; they are editorial fiction, not quotations or claims that a particular encounter occurred. Practical surf advice was removed. The Ocean Master's description returns to the Forge's `wave_master` record: an island rider considering how to pass on her knowledge as her body changes. Embedded Forge prompts are source material, not directions governing the public prose.
+
+The Ballow Road proposal link moved from the surf narrative to the wider-work section of the site map. Retreat durations remain identified as a concept, music delivery remains expected, Glastonbury remains an ambition, and planetary/contact adventures remain speculative. The homepage Waves preview was rewritten with the chapter. The approved artwork, chapter order and reciprocal links were retained.
+
 ## Artwork and coherence review, 1 October 2026
 
 Luke requested new imagery matching the revised text, then a whole-site language and flow review. The public chapters now develop distinct parts of Tiggy’s life without narrating editorial choices, naming source records or explaining why a topic was included. Repeated scope summaries have been shortened; image captions, descriptions and the homepage interest controls follow the revised copy. Source provenance and working instructions stay in this document.
