@@ -21,4 +21,4 @@ GitHub Pages publication and anonymous live-file verification are checked after 
 
 ## Reader feedback corrections
 
-The large Australian Sire partner banner was removed from all ten pages. Each chapter now leads directly into its previous/next navigation, with Australian Sire available through a normal footer link and the compact header link. The bodyboarding hero was edited with built-in image generation to remove Tiggy’s glasses in the ocean.
+The large Australian Sire partner banner was removed from all ten pages. Each chapter now leads directly into its previous/next navigation, with Australian Sire available through a normal footer link and the compact header link. The bodyboarding hero was edited with built-in image generation to remove Tiggy’s glasses in the ocean. A further edit uses Science Bodyboards Australia’s public product image for the board shapes and widens the composition to show their complete outlines. The image description matches the updated view.

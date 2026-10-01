@@ -62,7 +62,7 @@ PAGES = [
 <h2>The route keeps changing</h2>
 <p>His travel oracle brings work, gatherings, relationships and opportunities into view together. There is no predetermined itinerary. An opening in one place, a project in another and someone he wants to see again all influence the next journey.</p>
 <p>He enjoys moving quickly without losing the pleasure of where he is. Some connections continue across distance; others bring him back. Each visit adds another place and another memory to his life.</p>'''),
-    dict(slug='water', title='Sand, salt and screen', intro='Bodyboards in the water. Games on the sand. A film after sunset.', image='water-no-glasses-v2', alt='Tiggy and two adult women laugh in shallow turquoise seawater with their bodyboards after a small wave.', caption='Back in the water. GenAI story concept.', colour='mint', body='''
+    dict(slug='water', title='Sand, salt and screen', intro='Bodyboards in the water. Games on the sand. A film after sunset.', image='water-bodyboards-v3', alt='Tiggy and two adult women laugh in knee-deep turquoise seawater, holding short bodyboards with flat noses and crescent tails after a ride.', caption='After the ride. GenAI story concept.', colour='mint', body='''
 <p class="lead">Salt water, an approaching swell and the concentration of catching a wave: bodyboarding brings a physical thrill to Tiggy’s travels.</p>
 <h2>An epic wave</h2>
 <p>Riding an epic wave is one of his ambitions. Timing, skill and an understanding of the ocean matter as much as nerve. The Ocean Master, an experienced rider familiar with the break and its seasons, is among the companions in that adventure.</p>
