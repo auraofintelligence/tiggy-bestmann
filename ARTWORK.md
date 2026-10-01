@@ -29,9 +29,13 @@ Open-air contemporary pavilion with red laterite walls, timber roof, lush palms 
 
 Bangkok by a busy canal at blue hour, lively street food and creative neighbourhood behind a public waterbus landing. Tiggy in a saffron linen shirt has stopped with a small travel bag and is laughing as an adult Thai woman aged 25 with shoulder-length dark hair in a cobalt wrap dress shows him two tickets to an art-and-music evening, no readable print. An adult Thai friend aged 29 with long dark hair, in coral trousers and a turquoise blouse, is waving towards their arriving low-emission passenger boat. Both women have very full busts in fitted opaque everyday clothes. Warm food-stall light, blue canal reflections, hanging potted plants and real mixed urban architecture; discreet new transit technology. No temple-costume tourism, no red-light setting. Fun, flirtatious ordinary public invitation.
 
-### water
+### water-no-glasses-v2
 
-Fun candid coastal photography with Tiggy waist deep in clear turquoise seawater laughing after a small bodyboarding ride, holding a bright orange bodyboard beside him. He wears a blue long-sleeved rash vest, natural middle-aged build, wet long wavy hair and waterproof prescription sports glasses. An adult woman aged 26 in a yellow long-sleeved surf top and blue boardshorts and an adult woman aged 30 in a coral rash vest with navy shorts each hold their own boards and laugh with him. Small foam ripple, safe sheltered sandy beach, blue sky, no massive surf, colourful futuristic coastal pavilion distant on shore. Normal recreation, eye level at water surface, people and water equally important.
+The original bodyboarding scene was edited with built-in image generation on 1 October 2026 following reader feedback. The man no longer wears glasses in the ocean.
+
+Final edit prompt:
+
+Use case: precise-object-edit. Edit the supplied bodyboarding image. Remove ONLY the black rectangular glasses from the mature long-haired man in the centre. Reconstruct his eyes, eyebrows, temples and the bridge of his nose naturally, preserving his recognisable face, age, joyful laughing expression, gaze direction, wet hair and skin texture. No glasses, goggles, sunglasses, frames, straps or eyewear anywhere on him. Preserve everything else: both adult women, all faces and body proportions, rash vests, orange and turquoise bodyboards, waves, splashes, sunny beach, future pavilion, lighting, colours and wide 1536x1024 composition. No other scene changes and no added text.
 
 ### company-world
 

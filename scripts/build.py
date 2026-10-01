@@ -5,7 +5,7 @@ import os
 
 ROOT = Path(__file__).resolve().parents[1]
 SIRE_URL = os.environ.get('SIRE_PARTNER_URL', 'https://auraofintelligence.github.io/australiansire/')
-VERSION = '20261001-coherence-artwork'
+VERSION = '20261001-footer-links'
 
 PAGES = [
     dict(slug='index', title='Tiggy Bestmann', intro='Artist, traveller and happy-go-lucky fool. Love in abundance, a little mischief and a world to explore.', image='opening-world', alt='Two adult women, one visibly pregnant, welcome the long-haired Tiggy at an Istanbul ferry landing and draw him into a lively conversation.', caption='An invitation on the Bosphorus. Imagined Istanbul encounter. GenAI artwork.', colour='lemon', body='''
@@ -62,7 +62,7 @@ PAGES = [
 <h2>The route keeps changing</h2>
 <p>His travel oracle brings work, gatherings, relationships and opportunities into view together. There is no predetermined itinerary. An opening in one place, a project in another and someone he wants to see again all influence the next journey.</p>
 <p>He enjoys moving quickly without losing the pleasure of where he is. Some connections continue across distance; others bring him back. Each visit adds another place and another memory to his life.</p>'''),
-    dict(slug='water', title='Sand, salt and screen', intro='Bodyboards in the water. Games on the sand. A film after sunset.', image='water', alt='Tiggy and two adult women laugh in shallow turquoise seawater with their bodyboards after a small wave.', caption='Back in the water. GenAI story concept.', colour='mint', body='''
+    dict(slug='water', title='Sand, salt and screen', intro='Bodyboards in the water. Games on the sand. A film after sunset.', image='water-no-glasses-v2', alt='Tiggy and two adult women laugh in shallow turquoise seawater with their bodyboards after a small wave.', caption='Back in the water. GenAI story concept.', colour='mint', body='''
 <p class="lead">Salt water, an approaching swell and the concentration of catching a wave: bodyboarding brings a physical thrill to Tiggy’s travels.</p>
 <h2>An epic wave</h2>
 <p>Riding an epic wave is one of his ambitions. Timing, skill and an understanding of the ocean matter as much as nerve. The Ocean Master, an experienced rider familiar with the break and its seasons, is among the companions in that adventure.</p>
@@ -126,7 +126,7 @@ for i,p in enumerate(PAGES):
 <header class="site-header"><a class="brand" href="index.html">Tiggy Bestmann<span class="brand-dot" aria-hidden="true"></span></a><div class="header-actions"><a class="partner-short" href="{escape(SIRE_URL,quote=True)}">Meet Sire ↗</a><button class="menu-button" type="button" aria-expanded="false" aria-controls="chapter-menu">Explore <span aria-hidden="true">+</span></button></div><nav id="chapter-menu" aria-label="Chapters" hidden>{nav}</nav></header>
 <main id="main"><section class="opening"><h1>{escape(p['title'])}</h1><p>{escape(p['intro'])}</p></section><figure class="hero"><img src="assets/{p['image']}.webp" alt="{escape(p['alt'],quote=True)}" width="1536" height="1024" fetchpriority="high"><figcaption>{escape(p['caption'])}</figcaption></figure>
 <article class="prose" aria-label="{escape(p['title'],quote=True)}">{p['body']}</article>{extra}
-<section class="partner-panel"><div><h2>Meet Australian Sire</h2><p>A writer and traveller exploring fertility, particular desires and relationships across a vast romantasy universe.</p></div><a href="{escape(SIRE_URL,quote=True)}">Visit the partner site ↗</a></section></main>
+</main>
 <nav class="page-turn" aria-label="Previous and next pages"><a rel="prev" href="{prev['slug']}.html"><span>← Previous</span><strong>{escape(prev['title'])}</strong></a><a rel="next" href="{nxt['slug']}.html"><span>Next →</span><strong>{escape(nxt['title'])}</strong></a></nav>
-<footer><p>Tiggy Bestmann<br>A fictional character by Luke Nathan Hayes.</p><nav class="footer-links" aria-label="Related sites and licence"><a href="sitemap.html">Site map ↗</a><a href="https://auraofintelligence.github.io/australian-sire-story-forge/">Story Forge</a><a href="https://auraofintelligence.github.io/loose-goose-comedy-engine/">Loose Goose Comedy Engine</a><a href="https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/">Man and Mind</a><a href="https://github.com/auraofintelligence/tiggy-bestmann/blob/main/LICENCE.md">Strange But True licence</a></nav></footer><a class="to-top" href="#top" aria-label="Back to top">↑</a></body></html>''',encoding='utf-8')
+<footer><p>Tiggy Bestmann<br>A fictional character by Luke Nathan Hayes.</p><nav class="footer-links" aria-label="Related sites and licence"><a href="sitemap.html">Site map ↗</a><a href="{escape(SIRE_URL,quote=True)}">Australian Sire</a><a href="https://auraofintelligence.github.io/australian-sire-story-forge/">Story Forge</a><a href="https://auraofintelligence.github.io/loose-goose-comedy-engine/">Loose Goose Comedy Engine</a><a href="https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/">Man and Mind</a><a href="https://github.com/auraofintelligence/tiggy-bestmann/blob/main/LICENCE.md">Strange But True licence</a></nav></footer><a class="to-top" href="#top" aria-label="Back to top">↑</a></body></html>''',encoding='utf-8')
 print(f'Built {len(PAGES)} Tiggy pages.')

@@ -18,3 +18,7 @@ Pregnant adult women remain visible in the home, retreat, company and newly gene
 - Generated-image prompts and source roles are recorded in ARTWORK.md; factual and fictional provenance is recorded in SOURCES.md.
 
 GitHub Pages publication and anonymous live-file verification are checked after the revision is pushed. Public verification results and browser screenshots are kept locally in `../outputs/character-site-publication/`.
+
+## Reader feedback corrections
+
+The large Australian Sire partner banner was removed from all ten pages. Each chapter now leads directly into its previous/next navigation, with Australian Sire available through a normal footer link and the compact header link. The bodyboarding hero was edited with built-in image generation to remove Tiggy’s glasses in the ocean.
