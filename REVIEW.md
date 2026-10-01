@@ -22,3 +22,5 @@ GitHub Pages publication and anonymous live-file verification are checked after 
 ## Reader feedback corrections
 
 The large Australian Sire partner banner was removed from all ten pages. Each chapter now leads directly into its previous/next navigation, with Australian Sire available through a normal footer link and the compact header link. The bodyboarding hero was edited with built-in image generation to remove Tiggy’s glasses in the ocean. A further edit uses Science Bodyboards Australia’s public product image for the board shapes and widens the composition to show their complete outlines. The image description matches the updated view.
+
+The latest surf-image revision uses Luke's supplied photos for the underarm carry and bicep leashes. Visual review confirms both of Tiggy's arms and hands are visible, with no glasses in the water. A further background edit adds a clear peeling wave with an open face and offshore swell lines. The image description was updated to match.
