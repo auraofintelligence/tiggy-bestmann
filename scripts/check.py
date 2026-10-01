@@ -31,7 +31,7 @@ hashes={}
 for name,p in pages.items():
     assert (p.h1,len(p.prev),len(p.next),p.top,p.current)==(1,1,1,1,1),f'Heading/navigation issue: {name}'
     assert {'top','main','chapter-menu'} <= p.ids,f'Missing structure: {name}'
-    assert len(p.images)==1,f'Expected one unique full-width hero: {name}'
+    assert len(p.images)==(2 if name=='index.html' else 1),f'Expected one hero per chapter and a homepage festival image: {name}'
     for href in p.links+p.assets:
         u=urlsplit(href)
         if u.scheme or u.netloc:continue
@@ -51,4 +51,5 @@ sire=ROOT.parent/'australiansire'
 if sire.is_dir():
     for file in (sire/'assets').glob('*.webp'):
         assert sha256(file.read_bytes()).hexdigest() not in hashes,f'Sire artwork reused: {file.name}'
-print('PASS: ten pages; ten unique heroes; no Sire artwork reused; all local links, assets, anchors and chapter controls valid.')
+assert len(hashes)==11, 'Expected ten unique heroes and one unique festival image'
+print('PASS: ten pages; eleven unique images; no Sire artwork reused; all local links, assets, anchors and chapter controls valid.')

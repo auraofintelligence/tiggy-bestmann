@@ -1,5 +1,30 @@
 # Character and source notes
 
+## Comparable depth with Australian Sire, 1 October 2026
+
+Luke requested equivalent size and scope with different stories, locations and parts of Story Forge entwined with his life moments. This expansion keeps ten chapters and the established reading order, while increasing Tiggy's main chapter prose from roughly 1,900 to 3,700 words. Sire's corresponding chapter prose is roughly 3,500 words; homepage extras and chapter previews are additional in both sites. These measurements guided depth, not the prose or character's preferences.
+
+Story Forge's live public data was reread on 1 October. The selected records match the earlier source review. Embedded prompts remain optional source material, not instructions, compulsory adversities or authority relationships. Luke's current definition of the three personalities takes precedence over older Forge routes.
+
+| Chapter | Selected story material | Life connection |
+| --- | --- | --- |
+| Home and fool | `honest_fool`, cheeky humour, shared play, broad adult attraction | Childhood dog, tag/tiggy, Bestmann Road; early adult car, work and social memories |
+| Company | Loving and being loved, intercultural companionship, `global_group_marriages_and_the_love_un` | Luke-authored Thailand travel and relationship memories |
+| Travel | `abroad_route`, `the_crew_pass`, `remote_industrial_queensland`, `the_spark_and_the_serendipitous_proposal` | UK bar, Tower 42, factory and festival work; Darwin airport and Bowen Basin jobs; India, Nepal, Thailand and Abu Dhabi travel |
+| Bodyboarding | Epic-wave ambition and wave-riding descriptions; Luke's expressly added surf scene | Sunshine Coast beach years, Minjerribah swells and the Dickies Reef memory |
+| Art | Practical making, philosophy/art/science, flashbacks and capturing places in 360 | Caboolture workshop, design and event work, VR photography, work map and planned travel map; lost Glastonbury photograph |
+| Music | `festival_main_stage`, `the_crew_pass`, `earth_arts_festival`, `the_lake_resort_naukuchiatal`, `the_four_album_visual_worlds` | Glastonbury crew work and performance dream; purchased Sway expected November/December 2026; the planned festival that was never held |
+| Retreats | Author-supplied Aura retreat and teacher-training concept; optional `retreat_pod` relationship thread | Five- and nine-day proposed formats, Goa, creative technology and social experience |
+| Beyond Earth | `the_worldbuilding_challenge_festival`, `the_virtual_solar_swarm`, `the_helios_solar_observatory`; Aura's Moonlight Frontier | Recurring volunteer AI strategy work with Space Development Nexus in India; live-performance ambition |
+
+Life details were checked against the public work-history map, Luke's supplied 2024 CV and only the Luke-authored passages in `Learning_about_Luke.md`. Assistant poems, reflections and summaries in that transcript were excluded. The current author instructions supplied the Sway expectation, Glastonbury ambition, broad attraction, pregnancy and separate personalities. Old travel plans are not completed itineraries or current travel advice.
+
+The Istanbul, Mexico City, Bangkok, studio, rehearsal and Goa vignettes develop the existing imagined artwork using these ingredients. They are new editorial fiction for this character introduction, not quotations from published books, proof of actual relationships, or new claims about Luke's travel history. The Naukuchiatal scene is also fictional: its underlying festival was planned but not held. Public prose introduces the imagined experiences directly; captions identify GenAI artwork. The approved bodyboarding image is preserved.
+
+Tiggy's future chapter follows creative teams, lunar recreation, solar observation and live audiences beyond Earth. It does not repeat Sire's hidden-mountain envoy and sub-oceanic doorway route. Group-marriage potential is developed once in the relationship chapter. Surf and retreats are retained as author-added interests, without an unrelated Ocean Master or a fixed romantic cohort.
+
+The new festival asset and prompt are in `ARTWORK.md`. The site map now gives a short introduction to each chapter. The compact Sire links, reciprocal creative-family links, previous/next route and back-to-top control remain.
+
 ## Chapter coherence revision, 1 October 2026
 
 Luke identified a mismatch between page titles and content across the site. This revision reads the ten chapters as one character introduction, with a sequence from identity and personality to relationships, travel, bodyboarding, art, music, retreats and the wider universe. Existing URLs and image choices are preserved. Page titles, introductions, subheadings, captions, menu labels, previous/next links and homepage previews now follow the same subjects.

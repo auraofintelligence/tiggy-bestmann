@@ -1,5 +1,13 @@
 # Site review
 
+## Depth and distinct stories, 1 October 2026
+
+Expanded the ten chapters to comparable depth with Australian Sire while retaining Tiggy's own personality, chapter subjects, established routes and approved artwork. Selected different Forge threads around work-led travel, creative teams, festivals, memory, lunar play and solar observation. Added Luke-authored life details from the supplied transcript and public work-history map. The unheld Naukuchiatal Earth Arts festival now has an imagined homepage feature and one new full-width image. Group-marriage material remains concentrated in the relationships chapter. Surf and retreats remain substantial chapters.
+
+Read all ten rendered chapter bodies in order. Titles, introductions, headings, chapter previews and previous/next links agree with their subjects. Reviewed language for agency, prescription, repeated explanations and editorial-note phrasing. No permission-like “can”, Ocean Master or Starmind appears in the new public prose.
+
+Local validation passed: ten pages, eleven unique images, no Sire image reuse, valid links/assets/anchors and a complete previous/next route. JavaScript and diff checks passed. All ten pages fit at a 320px phone width without horizontal overflow; the map contains nine chapter descriptions. The menu opens with ten chapters and closes with Escape. All three homepage interest choices show the matching copy and destination. The new lazy-loaded festival image was verified after scrolling into view, and the normal viewport was restored. Publication is checked separately against the deployed files after pushing.
+
 ## Titles, content and reading order, 1 October 2026
 
 Luke rejected the mismatch between titles and chapter content. All ten page introductions and bodies were reread and revised together. The new reading order is:

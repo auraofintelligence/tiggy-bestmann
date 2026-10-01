@@ -3,4 +3,12 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
 .footer-links{display:flex;flex-wrap:wrap;gap:.7rem 1.3rem;max-width:42rem;line-height:1.5}
 .footer-links a{font-weight:700}
+.chapter-copy strong{display:block;font-weight:900}
+.chapter-copy>span{display:block;margin-top:.5rem;font-size:1rem;font-weight:400;line-height:1.5;letter-spacing:normal}
+.feature-copy{max-width:850px;margin:auto;padding:0 2rem 2.5rem;font-size:1.1rem;line-height:1.75}
+.feature-copy h2{font-size:clamp(2rem,3.2vw,3rem);margin:0 0 1.25rem}
+.feature-copy p{margin:0 0 1.5rem}
+.feature-copy p:last-child{margin-bottom:0}
+.feature-copy a{font-weight:700}
+@media(max-width:760px){.feature-copy{padding:0 6% 2.5rem;font-size:1.06rem}}
 @media(max-width:760px){.footer-links{margin-top:1.2rem}}
