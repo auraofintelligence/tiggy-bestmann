@@ -1,5 +1,9 @@
 # Site review
 
+## Source connection correction, 1 October 2026
+
+Removed the unrelated Ocean Master paragraph from the water chapter after Luke identified that no source connects her to the approved image's three-person surf encounter. Optional Forge cast and worksheet ingredients are not automatically members of every scene. The correction is narrow; the approved image and other chapter prose are retained pending the separate source connection review.
+
 ## Reader prose review, 1 October 2026
 
 Reviewed all ten chapter bodies for generic activity summaries, editorial reminders, proposal pitches, repeated character lists and prescriptive or dominant framing. Revised each for adult readers discovering Tiggy, with a distinct purpose per page. The water chapter now opens with the approved imagined surf scene; its proposal link sits in the site map. The homepage Waves preview matches the new chapter. Artwork and layout remain as approved. Source and fiction boundaries are recorded in SOURCES.md.

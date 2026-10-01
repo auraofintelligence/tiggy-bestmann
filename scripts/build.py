@@ -64,7 +64,6 @@ PAGES = [
 <p class="lead">Tiggy comes ashore with his board under his arm, flippers in hand and a grin still on his face. The women beside him are laughing. He is enjoying the walk back almost as much as the surf.</p>
 <h2>The wave he wants</h2>
 <p>An epic ride is high on his wish list. He wants the speed, the exhilaration and a wave worth remembering years later. A promising swell gives his travel oracle another reason to look towards the coast.</p>
-<p>One of his companions is the Ocean Master, who knows the island’s water intimately. Her body is beginning to argue with her, and she is deciding who receives what she knows while she is still riding.</p>
 <h2>The afternoon is still open</h2>
 <p>Back on the sand, the teasing continues. A game draws them in; a film after sunset gives them a reason to stay. Tiggy enjoys the warmth of being beside a woman who is enjoying him too, with the conversation growing more personal as the beach empties.</p>
 <p>The next pleasure might be another wave, another shared joke or an invitation into <a href="company.html">a much closer evening</a>.</p>'''),
