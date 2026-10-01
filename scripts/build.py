@@ -5,127 +5,129 @@ import os
 
 ROOT = Path(__file__).resolve().parents[1]
 SIRE_URL = os.environ.get('SIRE_PARTNER_URL', 'https://auraofintelligence.github.io/australiansire/')
-VERSION = '20261001-reader-prose'
+VERSION = '20261001-chapter-coherence-2'
 
 PAGES = [
-    dict(slug='index', title='Tiggy Bestmann', intro='Artist, traveller and happy-go-lucky fool. Love in abundance, a little mischief and a world to explore.', image='opening-world', alt='Two adult women, one visibly pregnant, welcome the long-haired Tiggy at an Istanbul ferry landing and draw him into a lively conversation.', caption='An invitation on the Bosphorus. Imagined Istanbul encounter. GenAI artwork.', colour='lemon', body='''
-<p class="lead">Tiggy Bestmann wants a full life: making art, travelling the world, falling for women and laughing often. He is the happy-go-lucky fool in Luke Nathan Hayes’s science-fiction romantasy universe, with long hair, an inventive mind and an honest thought that sometimes escapes before he has dressed it properly.</p>
-<h2>The pleasure of being invited</h2>
-<p>She starts talking to him. Something in her humour catches his attention; something in his reply makes her stay. He loves that first stretch of discovery, when neither knows quite where the conversation is going.</p>
-<p>His attraction is broad. Different bodies, temperaments and ways of looking at life interest him. He wants affection, desire and <a href="company.html">company that enjoys him back</a>. Romance travels with him, through new encounters and people he is very glad to see again.</p>
-<h2>There is a lot he wants to do</h2>
-<p>Every country and territory is on his wish list. The days are busy: work, art, music, the surf, an invitation somewhere unfamiliar. He enjoys the distance between an outback gathering and a splendid dinner, and the discovery that he feels at home in both.</p>
-<p><a href="out-about.html">His route follows openings as they arrive</a>. A festival job, a promising swell or someone he misses gives the next journey a reason.</p>
-<h2>A dream from the festival field</h2>
-<p>In 2004, Luke helped set up Glastonbury and wished he would return someday to perform. Tiggy carries that wish. An Audima Labs Sway is on order, and learning to play <a href="music.html">i C. infinity live</a> is the next adventure.</p>
-<h2>Earth is the beginning</h2>
-<p>The horizon reaches across planets, into unfamiliar civilisations and encounters beyond the dimensions he knows. Tiggy’s appetite for <a href="possibilities.html">adventure and romance</a> reaches with it.</p>
-<p>His name begins with <a href="fool.html#the-name">a childhood dog, a street and a game</a>. Luke’s remembered life supplies the flashbacks; Tiggy takes that history somewhere new.</p>'''),
-    dict(slug='fool', title='The happy-go-lucky fool', intro='A quick grin, an honest thought and a joke getting better in company.', image='fool-mischief-v2', alt='Long-haired Tiggy laughs with adult friends as a woman playfully tilts his orange hat at an imagined outdoor festival.', caption='The joke is shared. Imagined festival company. GenAI artwork.', colour='orange', body='''
-<p class="lead">Tiggy says what he actually thinks. Sometimes it is funny. Sometimes the pause afterwards is funnier. He is cheeky, inventive and occasionally awkward, with enough honesty to leave the awkward bit in.</p>
-<p>He likes a woman who adds something outrageous to his ridiculous suggestion. A joke becomes a game between them, and the game is often more interesting than whatever started it.</p>
+    dict(slug='index', title='Tiggy Bestmann', intro='Artist, traveller and happy-go-lucky fool. Love in abundance, a little mischief and a world to explore.', image='opening-world', alt='Two adult women, one visibly pregnant, welcome the long-haired Tiggy at an Istanbul ferry landing and draw him into a lively conversation.', caption='Imagined encounter at an Istanbul ferry landing. GenAI artwork.', colour='lemon', body='''
+<p class="lead">Tiggy Bestmann is Luke Nathan Hayes’s happy-go-lucky fool: an artist, traveller and romantic with love in abundance and a taste for big experiences. Cheeky, inventive and sometimes awkward, he says what he thinks and enjoys the comedy that follows.</p>
+<h2>Love and a life in motion</h2>
+<p>Women begin his first encounters. Tiggy meets their interest with his own. His attraction reaches across women of many forms and personalities, with affection, sex, laughter and shared curiosity at the heart of <a href="company.html">his romantic life</a>.</p>
+<h2>A world to get amongst</h2>
+<p>Every country and territory is on his wish list. Outback gatherings, beach life, high society, sport and festivals give his travels their variety. There is work involved, limited time and a lot he wants to fit in.</p>
+<p><a href="out-about.html">His travel oracle follows opportunities</a>: people, creative work, events and the chance to be somewhere interesting while something is happening.</p>
+<h2>The life behind the fiction</h2>
+<p>Luke’s work, travel and memories feed Tiggy’s adventures. <a href="art.html">Art and life mapping</a> connect that history to imagined worlds. <a href="music.html">Music carries a Glastonbury dream</a> that began during Luke’s festival crew days in 2004.</p>
+<h2>Beyond Earth</h2>
+<p>The science-fiction romantasy reaches across planets and into encounters with extraterrestrial and extra-dimensional civilisations. Tiggy’s appetite for <a href="possibilities.html">adventure, art and romance</a> reaches with it.</p>
+<p><a href="fool.html">A childhood dog, a street and a game</a> are behind his name.</p>'''),
+    dict(slug='fool', title='The happy-go-lucky fool', intro='Cheeky, inventive and occasionally awkward. Honest first, dignified second.', image='fool-mischief-v2', alt='Long-haired Tiggy laughs with adult friends as a woman playfully tilts his orange hat at an imagined outdoor festival.', caption='Shared mischief at an imagined outdoor festival. GenAI artwork.', colour='orange', body='''
+<p class="lead">Tiggy says what he actually thinks. His honesty sometimes gets out ahead of his dignity. He is cheeky, inventive and occasionally awkward, with an appetite for play and the unexpected.</p>
 <h2 id="the-name">A dog, a street and a game</h2>
-<p>Tiggy was Luke’s childhood dog. Tiggy was also what he called the game of tag. Bestmann Road was his childhood street. The old first-pet-plus-first-street porn-star-name game put the two names together.</p>
-<p>There is a trick in that game: it asks people to reveal two familiar account-recovery answers. Luke tells the origin openly. The name carries the dog, the street, childhood play and an adult joke all at once.</p>
-<h2>The fool in love</h2>
-<p>Tiggy wants to play, and to love and be loved. He has no fixed ideal of a woman’s body or personality. Energy, affection and the pleasure of exploring each other draw him towards very different women.</p>
-<p>She begins the encounter. His delight is easy to see. He remembers what made them laugh, and finds himself looking forward to the next conversation.</p>
-<h2>Making something of it</h2>
-<p>His inventiveness runs through practical work, art and music. An unusual idea interests him enough to try it. Other people bring their own ideas, and he enjoys discovering what they make together.</p>
-<p><a href="https://auraofintelligence.github.io/australiansire/writer.html#three-personas">Luke, Tiggy and Australian Sire</a> share an origin, with different appetites for romance and adventure. Tiggy is the playful, open-hearted one.</p>'''),
-    dict(slug='art', title='Art, memory and imagined worlds', intro='Work, travel and remembered places become material for another life.', image='memory-atlas-v2', alt='Tiggy and two adult artists explore a place-and-memory timeline beside a globe and human digital twin in a bright harbour studio.', caption='Body, mind and remembered places. GenAI interpretation of a future memory studio.', colour='blue', body='''
-<p class="lead">Tiggy’s imagination has a working history. Web, mechanical, electrical, design and event work have left him with things to make, places to remember and more ideas than one life is likely to finish.</p>
-<h2>Making Aura</h2>
-<p>Aura O.Z. is among his largest ambitions: building with a team, drawing art, science and philosophy into places people experience together. He wants to make worlds that people enter, explore and bring something of themselves to.</p>
-<p>He enjoys the work as well as the idea. There are materials, tools and other people’s contributions involved. His art grows through that contact.</p>
+<p>Tiggy was Luke’s childhood dog. Tiggy was also his name for the game of tag. Bestmann Road was his childhood street. The first-pet-plus-first-street porn-star-name game put the two names together: childhood affection, play and a grown-up joke.</p>
+<h2>Three faces of the same life</h2>
+<p>Tiggy is the open-hearted romantic, drawn to joyful, energetic and exploratory companionship with women of many forms and personalities. Australian Sire is the older, more refined and selective expression, exploring fertility and particular deep desires. Luke Nathan Hayes, also known as Luke Catalyst, is the middle ground where both meet.</p>
+<p>These are three creative personalities growing from Luke’s life. <a href="https://auraofintelligence.github.io/australiansire/writer.html#three-personas">Their shared origin</a> gives each a different way into the romantasy.</p>
+<h2>A student of life</h2>
+<p>Tiggy’s curiosity runs through art, music, practical work and relationships. He enjoys making something with other people and discovering what their different ideas bring to it. Learning, laughter and desire are all part of that enjoyment.</p>
+<p>He wants to love and be loved, with room for fun, frivolity and the next experience. Joyful responsible abundance is the spirit of that life.</p>'''),
+    dict(slug='company', title='Love, desire and company', intro='Affection, sex, laughter and exploratory companionship. Love in abundance across a travelling life.', image='company-world', alt='Tiggy talks closely with two adult women, one visibly pregnant, at an art-filled rooftop gathering in Mexico City.', caption='Imagined rooftop company in Mexico City. GenAI artwork.', colour='orange', body='''
+<p class="lead">Tiggy wants to love and be loved. Affection, sex, humour and adventure run through his romantic life, with attraction reaching across women of many forms and personalities.</p>
+<h2>The first encounter</h2>
+<p>Women initiate his first encounters. Tiggy responds with his own curiosity and desire. Flirtation grows through mutual interest, shared choices and the pleasure of finding out more about each other.</p>
+<h2>Desire in many forms</h2>
+<p>He enjoys playful, joyful, energetic and exploratory companionship. Different bodies and personalities interest him, along with the individual woman’s humour, ideas and appetite for experience.</p>
+<p>Pregnant women are among those he hopes to share affection, sex and adventure with.</p>
+<h2>Relationships across places</h2>
+<p>World travel and romance belong to the same life for Tiggy. He wants the discovery of new encounters and the warmth of continuing relationships, with people staying connected across distance.</p>
+<h2>Global Group Marriages</h2>
+<p>His romantic horizon includes <a href="https://auraofintelligence.github.io/australiansire/group-marriages.html">Global Group Marriages</a>, exploring marriages involving several partners across countries. The United Nations of Love imagines the UN as one loving, sexually alive, cross-cultural marriage raising children together. GAJRA Earth gives that thought experiment a wider planetary setting. Shared affection, pleasure and travel are part of its appeal for Tiggy.</p>'''),
+    dict(slug='out-about', title='World travel', intro='Every country and territory. Fast trips, busy days, work to do and plenty of fun.', image='out-about-world', alt='Two adult Thai women invite Tiggy to an evening gathering beside a Bangkok canal and an arriving passenger boat.', caption='Imagined canal-side encounter in Bangkok. GenAI artwork.', colour='lemon', body='''
+<p class="lead">Every country and territory is Tiggy’s travel ambition. He wants to meet, share, learn and teach. Work is part of the journey, time is limited and his appetite for experience is large.</p>
+<h2>Different worlds on Earth</h2>
+<p>Outback gatherings, high society, beach cultures, sport and festivals draw him into very different settings. He wants the variety of places and people, along with the humour, attraction and enjoyment of getting amongst it.</p>
+<h2>Work on the way</h2>
+<p>Practical skills, creative projects and festival work give his travels another dimension. Making something with people brings him into the life of a place, even during a short visit.</p>
+<p>The <a href="https://auraofintelligence.github.io/global-founder-atlas/">Global Founder Atlas</a> leads into possible working journeys through research, residencies and projects. Tiggy’s travels draw on Luke’s work history and his interest in sharing knowledge.</p>
+<h2>The travel oracle</h2>
+<p>His travel oracle keeps the route responsive to opportunities: work, events, creative collaborations, surf conditions and invitations. People, place and timing come together as the journey develops.</p>
+<p>The ambition spans the whole world. The next destination grows from what is happening in his life, with room for serendipity, <a href="water.html">a promising swell</a> and company worth travelling to meet.</p>'''),
+    dict(slug='water', title='Bodyboarding', intro='An epic wave, a fast ride and two women sharing the fun in the surf.', image='water-photo-carry-v6', alt='Long-haired Tiggy walks through shallow surf with two smiling adult women. Each carries a bodyboard under an arm and a pair of short swim flippers in the same hand. A blue-green wave peels behind them.', caption='After the ride. GenAI story concept.', colour='mint', body='''
+<p class="lead">Tiggy is in his element with a board, a pair of flippers and two women enjoying the waves beside him. The pleasure is physical: the burst of speed, the ride itself and the company out there with him.</p>
+<h2>An epic ride</h2>
+<p>Riding an epic wave is one of his ambitions. He wants the speed along an open face, a ride that holds his whole attention and the exhilaration of coming out of it. Bodyboarding gives his travels a thrill he wants more of.</p>
+<h2>Company in the surf</h2>
+<p>Sun, salt, wet hair and laughter give beach life its own sensuality. Tiggy enjoys the excitement of being there with women who are enjoying the day with him. Shared play and attraction are part of the same pleasure.</p>
+<h2>A beach life behind the story</h2>
+<p>Luke’s own history includes frequent bodyboarding and an early social life around the beach. Those memories feed Tiggy’s adventures, alongside the desire for bigger waves and <a href="out-about.html">new coasts to explore</a>.</p>'''),
+    dict(slug='art', title='Art, memory and Aura', intro='Practical skills, remembered places and an imagination reaching into new worlds.', image='memory-atlas-v2', alt='Tiggy and two adult artists explore a place-and-memory timeline beside a globe and human digital twin in a bright harbour studio.', caption='Imagined memory and digital-twin studio. GenAI artwork.', colour='blue', body='''
+<p class="lead">Web, design, mechanical, electrical and event work give Tiggy a practical imagination. He is interested in the life of an idea: making it, sharing it and seeing what people bring to it.</p>
+<h2>Building Aura together</h2>
+<p>Building Aura O.Z. with a team is one of his largest ambitions. Art, science and philosophy meet in that work, through digital twins, imagined spaces and experiences people share.</p>
+<p>His creative life includes tools, materials and other people’s ideas. The enjoyment is in making something together as well as imagining it.</p>
 <h2 id="remembering">Body, mind and place/soul story</h2>
-<p>An old job or a remembered place opens a flashback. Luke is mapping those memories through his <a href="https://auraofintelligence.github.io/Lukes-world-of-work-experience/">work history map</a>, with a travel history map still to come.</p>
-<p>His digital twins connect body, mind and place/soul story: the physical person, the thinking person, and the life remembered through places. For Tiggy, that history is rich material. A festival field in 2004 still holds <a href="music.html#glastonbury">a dream of getting on stage</a>.</p>
-<h2>A remembered life, an unfamiliar world</h2>
-<p>Flashbacks reach through any part of Luke’s history. The future opens in another direction, through Aura’s <a href="https://auraofintelligence.github.io/world-builder.html">World Builder</a> and imagined civilisations. Tiggy’s art follows his curiosity into both.</p>'''),
-    dict(slug='retreats', title='Aura retreats', intro='Bright ideas, shared discoveries and conversation that carries on over dinner.', image='retreat', alt='A visibly pregnant adult woman shares a playful light sculpture with Tiggy and another participant at an imagined coastal Aura retreat in Goa.', caption='Colour across the table. Conversation into the evening. Imagined Goa retreat. GenAI artwork.', colour='mint', body='''
-<p class="lead">At an Aura retreat, there is time to become absorbed in an idea and in the people around the table. Tiggy enjoys both. The creative work gives them something to share; dinner gives the conversation room to wander.</p>
-<h2>Getting absorbed</h2>
-<p>Light, music, avatars and imagined spaces fill the work. Tiggy arrives with practical experience and plenty he still wants to explore. He enjoys seeing what happens when someone else takes an idea somewhere he had not thought of.</p>
-<p>Luke’s retreat concept includes five-day explorations and nine-day teacher training, with coastal Goa among the proposed settings. Making, reflection, food and the life outside the retreat sit alongside the sessions.</p>
-<h2>Getting close</h2>
-<p>Repeated meals and unfinished conversations make strangers familiar. Attraction has time to show itself. The joke from the first evening acquires a history; the person beside him becomes someone he hopes will stay a little longer.</p>
-<h2>When the fortnight ends</h2>
-<p>One retreat story follows a group becoming close over a fortnight. Then departure arrives. There are flights to catch and people who have grown used to being together. The affection follows them home, and the question of seeing one another again becomes much more interesting than it was when they arrived.</p>'''),
-    dict(slug='out-about', title='Fast travel, full days', intro='A reason to land, a busy few days and someone he hopes to see again.', image='out-about-world', alt='Two adult Thai women invite Tiggy to an evening gathering beside a Bangkok canal and an arriving passenger boat.', caption='The boat is coming. The evening is open. Imagined Bangkok encounter. GenAI artwork.', colour='lemon', body='''
-<p class="lead">Tiggy wants to visit every country and territory. He wants to meet people, share what he knows, learn, teach and enjoy being there. The ambition is enormous; the time between arrival and departure is often short.</p>
-<h2>Busy days, open evenings</h2>
-<p>Work is part of the journey. Festival crews, creative projects, research and presentations give him reasons to land and people to work beside. The <a href="https://auraofintelligence.github.io/global-founder-atlas/">Global Founder Atlas</a> is one doorway into that working travel.</p>
-<p>He also wants the hours after work: the beach, a gathering, a meal he has never tried, the invitation he is pleased he accepted. Outback life, high society, sport and festivals offer very different company. He enjoys discovering how he fits into each.</p>
-<h2>The next place</h2>
-<p>His travel oracle follows opportunities as they come into view. Work, events, a swell and a woman he wants to see again all matter to the route. Each new opening changes the journey.</p>
-<p>A few busy days leave him with a new place in his memory and people he misses. Sometimes the next journey takes him further away. Sometimes it brings him back for a very good reason.</p>'''),
-    dict(slug='water', title='Sand, salt and screen', intro='A good wave, salt on his skin and company he wants to keep.', image='water-photo-carry-v6', alt='Long-haired Tiggy walks through shallow surf with two smiling adult women. Each carries a bodyboard under an arm and a pair of short swim flippers in the same hand. A blue-green wave peels behind them.', caption='After the ride. GenAI story concept.', colour='mint', body='''
-<p class="lead">Tiggy comes ashore with his board under his arm, flippers in hand and a grin still on his face. The women beside him are laughing. He is enjoying the walk back almost as much as the surf.</p>
-<h2>The wave he wants</h2>
-<p>An epic ride is high on his wish list. He wants the speed, the exhilaration and a wave worth remembering years later. A promising swell gives his travel oracle another reason to look towards the coast.</p>
-<h2>The afternoon is still open</h2>
-<p>Back on the sand, the teasing continues. A game draws them in; a film after sunset gives them a reason to stay. Tiggy enjoys the warmth of being beside a woman who is enjoying him too, with the conversation growing more personal as the beach empties.</p>
-<p>The next pleasure might be another wave, another shared joke or an invitation into <a href="company.html">a much closer evening</a>.</p>'''),
-    dict(slug='company', title='The invitation matters', intro='She starts the conversation. Curiosity becomes flirtation.', image='company-world', alt='Tiggy talks closely with two adult women, one visibly pregnant, at an art-filled rooftop gathering in Mexico City.', caption='The conversation has become the best part of the evening. Imagined Mexico City gathering. GenAI artwork.', colour='orange', body='''
-<p class="lead">Tiggy likes being wanted. She starts the conversation, and he feels the pleasure of her attention. Her wit, her body, the way she looks at him: he wants to find out more.</p>
-<h2>Getting to know her</h2>
-<p>His attraction reaches across women of many forms and personalities. A quick laugh, a bold thought or a quieter warmth catches him. The discovery is personal: what she loves, what excites her, what they enjoy together.</p>
-<p>He welcomes affection and sex into that exploration. With a pregnant lover, her changing curves and the closeness between them hold their own attraction. He enjoys the woman he is with and the desire they share.</p>
-<h2>Someone he wants to see again</h2>
-<p>A return visit carries anticipation. They have things to tell each other, memories to laugh over and the pleasure of finding that the attraction is still there.</p>
-<p>Tiggy’s life keeps moving. Romance grows across places, through new encounters and continuing relationships. He wants the freedom to travel and the warmth of being missed.</p>
-<h2>A larger circle</h2>
-<p>An invitation from women who already share a life opens a wider intimacy. Friendship, desire and affection cross between several people, each bringing something of their own.</p>
-<p><a href="https://auraofintelligence.github.io/australiansire/group-marriages.html">Global Group Marriages and the United Nations of Love</a> reach into that possibility on an international scale. Tiggy’s interest begins with the people he is drawn to and the pleasure of joining a life they want to share with him.</p>'''),
-    dict(slug='music', title='From Glastonbury to Sway', intro='A dream from the festival crew days. A new instrument on its way.', image='music-sway-v2', alt='Tiggy experiments with an Audima Sway-inspired MIDI controller while two adult women, one visibly pregnant, enjoy the music in an imagined rehearsal space.', caption='Finding the first phrase. Imagined Sway rehearsal. GenAI artwork.', colour='blue', body='''
-<p class="lead">In 2004, Luke helped build Glastonbury and wanted to return someday as a performer. Tiggy carries the same unfinished wish: to hear his own music come alive in front of a crowd.</p>
+<p>Luke’s life mapping connects the physical person, the thinking person and the story remembered through places. His <a href="https://auraofintelligence.github.io/Lukes-world-of-work-experience/">work history map</a> is already part of that record; a travel history map is planned.</p>
+<p>Digital twins of body, mind and place/soul story are part of his exploration of Aura: ways of remembering and mapping a life, its experiences and its intentions.</p>
+<h2>Flashbacks and imagined worlds</h2>
+<p>Any part of Luke’s history is material for a Tiggy flashback. Jobs, journeys and remembered places connect the fiction to a lived past. The <a href="music.html#glastonbury">Glastonbury dream from 2004</a> is one thread that reaches into his future.</p>
+<p>Aura’s <a href="https://auraofintelligence.github.io/world-builder.html">World Builder</a> explores landscapes, planets, moons, stars and galaxies. Places remembered and worlds imagined are both material for Tiggy’s art.</p>'''),
+    dict(slug='music', title='Music and Glastonbury', intro='i C. infinity, a Sway controller on its way and a dream of performing at Glastonbury.', image='music-sway-v2', alt='Tiggy experiments with an Audima Sway-inspired MIDI controller while two adult women, one visibly pregnant, enjoy the music in an imagined rehearsal space.', caption='Imagined Sway rehearsal. GenAI artwork.', colour='blue', body='''
+<p class="lead">Tiggy wants to perform i C. infinity for a living audience. The music is Luke’s; the wish to take it on stage reaches back to a festival field in 2004.</p>
 <h2 id="glastonbury">Glastonbury, 2004</h2>
-<p>Luke’s UK working holiday included festival work with W.A.A.P. Wing and a Prayer Event Services. Glastonbury was among the events he helped set up. The wish to perform there has lasted far longer than that season.</p>
-<p>The crew days are part of his <a href="https://auraofintelligence.github.io/Lukes-world-of-work-experience/">work history map</a> and the flashbacks behind Tiggy’s musical ambition.</p>
+<p>Luke’s UK working holiday included festival work with W.A.A.P. Wing and a Prayer Event Services. He helped set up Glastonbury, where the ambition to return someday as a performer began.</p>
+<p>Those crew days are recorded in his <a href="https://auraofintelligence.github.io/Lukes-world-of-work-experience/">work history map</a>. Tiggy carries the performance dream into the romantasy.</p>
 <h2 id="sway">Sway is on its way</h2>
-<p>Luke has bought an <a href="https://audima.com.au/op/sway-b4/">Audima Labs Sway MIDI controller</a> from batch 4, with arrival expected in November or December 2026. Once it arrives, Tiggy’s adventure is learning to perform i C. infinity with it.</p>
-<p>The music is already there; the performance is something to discover. Touch, gestures and practice give him a new way to explore a phrase and hear what he does with it.</p>
-<h2>From a room to a festival</h2>
-<p><a href="https://auraofintelligence.github.io/i-C-infinity-music-universe/">i C. infinity</a> carries songs, characters and whole imagined lives. Tiggy wants to play that music in company, feel the response and enjoy what happens between the sound and the people hearing it.</p>
-<p>Glastonbury is still the dream. Beyond it, his science-fiction romantasy opens festivals across worlds, with unfamiliar audiences and a great deal of room to play.</p>'''),
-    dict(slug='possibilities', title='How big are we talking?', intro='A festival of whole civilisations. A life reaching beyond Earth.', image='worldbuilding-festival-v2', alt='Tiggy and two adult worldbuilders, one visibly pregnant, share a civilisation model at an imagined future festival, with lunar and city simulations behind them.', caption='Whole worlds on the table. Imagined Worldbuilding Challenge Festival. GenAI artwork.', colour='lemon', body='''
-<p class="lead">Tiggy wants to see every country and territory. His universe keeps opening beyond them: other planets, ocean civilisations, hidden mountain societies and encounters with beings whose lives are unlike anything he has known.</p>
+<p>Luke has bought an <a href="https://audima.com.au/op/sway-b4/">Audima Labs Sway MIDI controller</a> from batch 4, with arrival expected in November or December 2026. Once it arrives, the goal is to learn to perform i C. infinity with it.</p>
+<p>An unfamiliar instrument gives Tiggy something new to play with. The ambition is a live performance shaped by his own hands and the response of the people listening.</p>
+<h2>Music that travels</h2>
+<p><a href="https://auraofintelligence.github.io/i-C-infinity-music-universe/">i C. infinity</a> is Luke’s music universe. Tiggy’s ambition brings that music into his life as an artist and traveller, with a crowd to play for and the enjoyment of a shared performance.</p>
+<p>Glastonbury remains the dream venue. The science-fiction romantasy opens a further horizon of <a href="possibilities.html">festivals and audiences beyond Earth</a>.</p>'''),
+    dict(slug='retreats', title='Aura retreats', intro='Making Aura, sharing ideas and enjoying a few days in good company.', image='retreat', alt='A visibly pregnant adult woman shares a playful light sculpture with Tiggy and another participant at an imagined coastal Aura retreat in Goa.', caption='Imagined Aura retreat in Goa. GenAI artwork.', colour='mint', body='''
+<p class="lead">An Aura retreat brings creativity and company into the same few days. Tiggy’s interests meet there: art and technology, music and movement, learning through experience and the enjoyment of being together.</p>
+<h2>Aura in the making</h2>
+<p>Luke’s proposed formats are a five-day exploration and a nine-day teacher-training retreat. Both explore the Aura of Intelligence and digital twins through AI, extended reality, avatars, body mapping and remembered places.</p>
+<p>The concept also includes making things with generative AI, 3D modelling and printing, alongside reflection and creative work. That combination fits Tiggy’s practical skills and artistic curiosity.</p>
+<h2>Life around the retreat</h2>
+<p>Goa is among the proposed locations. Local culture, food, music, dance and adventure are part of the wider experience, with shared meals and time together beyond the workshops.</p>
+<p>For Tiggy, the appeal includes meeting people absorbed in ideas he enjoys, making something together and the possibilities of friendship and attraction. Retreats bring another rhythm to <a href="out-about.html">his travelling life</a>, with time for shared discovery.</p>'''),
+    dict(slug='possibilities', title='Beyond Earth', intro='Planetary adventures, whole civilisations and encounters beyond the familiar world.', image='worldbuilding-festival-v2', alt='Tiggy and two adult worldbuilders, one visibly pregnant, share a civilisation model at an imagined future festival, with lunar and city simulations behind them.', caption='Imagined Worldbuilding Challenge Festival. GenAI artwork.', colour='lemon', body='''
+<p class="lead">Earth is the beginning. Tiggy’s science-fiction romantasy reaches towards humanity across planets, growing ambitions on the Kardashev scale and contact with extraterrestrial and extra-dimensional civilisations.</p>
+<h2>Other civilisations</h2>
+<p>Hidden mountain societies, ocean civilisations and unfamiliar worlds widen the scope of his travels. Their art, ideas and ways of living give his curiosity much more to explore.</p>
+<p>He wants to meet, share, learn and teach. Adventure, companionship and romance reach into that larger universe with him.</p>
 <h2>The Worldbuilding Challenge Festival</h2>
-<p>At this imagined festival, teams pitch whole civilisations. One week holds a pitch arena, a build sprint, a short film, a working simulation and a world bible. An island campus residency is the next possibility.</p>
-<p>That is a week Tiggy wants to be part of. Art, philosophy, filmmaking and science have something enormous to work on, with people getting absorbed in worlds they have made together.</p>
-<h2>Play beyond Earth</h2>
-<p><a href="https://auraofintelligence.github.io/space-industry.html">Moonlight Frontier</a> imagines low-gravity sport and lunar adventure. <a href="https://auraofintelligence.github.io/aura-events.html">Aura’s events universe</a> reaches from intimate gatherings to galas and global festivals. Tiggy’s appetite for a good time follows that expanding horizon.</p>
-<p>Humanity grows across planets and towards energy ambitions on the Kardashev scale. AI and robotics are part of building that future. The distance between places becomes immense, and so does the scope for a life spent exploring.</p>
-<h2>Who is out there?</h2>
-<p>Extraterrestrial and extra-dimensional civilisations bring unfamiliar art, ideas and ways of being together. A Starmind Interpreter is among the figures in that universe. Tiggy wants to meet, learn, share and discover where affection and desire find a response.</p>
-<h2>Work behind the horizon</h2>
-<p>Luke draws on today’s thinkers and builders when he imagines what follows. <a href="https://www.nasa.gov/moontomarsarchitecture-strategyandobjectives/">NASA’s Moon to Mars strategy</a> and <a href="https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/">Gemini Robotics</a> are present-day starting points. Contact with other civilisations and travel across dimensions belong to the speculative adventures.</p>
-<p><a href="https://auraofintelligence.github.io/project-atlas/site-map.html">Project Atlas</a> and <a href="https://auraofintelligence.github.io/gajra-earth-claude-build/ahead.html">GAJRA Earth’s Ahead</a> lead into the wider work behind that horizon.</p>'''),
-    dict(slug='sitemap', title='More of Tiggy’s world', intro='Play, art, music, travel and relationships. Follow a thread through his world.', image='wayfinder', alt='Brightly coloured sculptural archways lead along a sunny seaside festival walkway towards the ocean.', caption='Plenty of ways to spend the afternoon. GenAI story concept.', colour='orange', body='''
-<p class="lead">Tiggy’s world begins with a playful man, an appetite for love and a long list of places he wants to see. These chapters follow his humour, art, music, relationships and adventures.</p>
-<h2>The man and the characters</h2>
-<p><a href="https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/">Man and Mind</a> introduces Luke Nathan Hayes. <a href="https://auraofintelligence.github.io/australiansire/writer.html#three-personas">Luke, Tiggy and Australian Sire</a> explores the three romantic personalities growing from his life: Tiggy’s broad, playful attraction, Sire’s more particular desires, and Luke’s balance between them.</p>
-<p>The <a href="https://auraofintelligence.github.io/australian-sire-story-forge/">Australian Sire Story Forge</a> opens the developing characters, settings and possible stories. The <a href="https://auraofintelligence.github.io/loose-goose-comedy-engine/">Loose Goose Comedy Engine</a> follows the humour.</p>
-<h2>Beyond the chapters</h2>
-<p>The proposed <a href="https://auraofintelligence.github.io/ballow-road-sand-screen-hub/">Ballow Road Sand &amp; Screen Hub</a> brings Luke’s beach-hub idea into view: sand sports, outdoor cinema, markets and festivals on Minjerribah.</p>
-<p>The <a href="https://auraofintelligence.github.io/sitemap.html">Aura site map</a> and <a href="https://auraofintelligence.github.io/project-atlas/site-map.html">Project Atlas</a> open the wider collection of work, music and imagined futures.</p>'''),
+<p>This imagined festival devotes a week to teams pitching and developing whole civilisations. The Pitch Arena leads into a Build Sprint, with a 12-minute film, a working simulation and a world bible. An island campus residency is among the possibilities at the end.</p>
+<p>It brings art, science, philosophy and filmmaking into one enormous creative experience, connecting Tiggy’s <a href="art.html">worldbuilding interests</a> with his love of festivals.</p>
+<h2>Play across worlds</h2>
+<p><a href="https://auraofintelligence.github.io/space-industry.html">Moonlight Frontier</a> imagines low-gravity sport and lunar adventure. <a href="https://auraofintelligence.github.io/aura-events.html">Aura’s events universe</a> reaches through gatherings, galas and festivals. The scale of the setting grows with the scope for work, art and enjoyment.</p>
+<h2>The work feeding the fiction</h2>
+<p>Luke draws inspiration from today’s work in spaceflight, AI and robotics when he imagines these futures. <a href="https://www.nasa.gov/moontomarsarchitecture-strategyandobjectives/">NASA’s Moon to Mars strategy</a> and <a href="https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/">Gemini Robotics</a> are starting points for that curiosity.</p>
+<p><a href="https://auraofintelligence.github.io/gajra-earth-claude-build/ahead.html">GAJRA Earth’s Ahead</a> leads into the wider work. Planetary life, contact and travel across dimensions extend the imagined horizon beyond it.</p>'''),
+    dict(slug='sitemap', title='Site map', intro='Tiggy’s chapters and the wider life, music and story universe behind them.', image='wayfinder', alt='Brightly coloured sculptural archways lead along a sunny seaside festival walkway towards the ocean.', caption='An imagined seaside festival walkway. GenAI artwork.', colour='orange', body='''
+<p class="lead">Behind Tiggy’s adventures are Luke’s life, music, practical work and evolving Aura universe. These links lead into that wider ecosystem.</p>
+<h2>The creator and the fiction</h2>
+<p><a href="https://auraofintelligence.github.io/luke-nathan-hayes-man-and-mind/">Man and Mind</a> introduces Luke Nathan Hayes. His <a href="https://auraofintelligence.github.io/australiansire/writer.html#three-personas">three creative personalities</a> share that history. <a href="https://auraofintelligence.github.io/australian-sire-story-forge/">Story Forge</a> holds developing characters, settings and possible stories; <a href="https://auraofintelligence.github.io/loose-goose-comedy-engine/">Loose Goose Comedy Engine</a> follows the humour.</p>
+<h2>Life, travel and music</h2>
+<p>Luke’s <a href="https://auraofintelligence.github.io/Lukes-world-of-work-experience/">work history map</a> follows the lived past. <a href="https://auraofintelligence.github.io/right-place-right-time/">Right Place, Right Time</a> connects work and future travel. <a href="https://auraofintelligence.github.io/i-C-infinity-music-universe/">i C. infinity</a> opens the music universe.</p>
+<h2>Beach life and wider projects</h2>
+<p>The proposed <a href="https://auraofintelligence.github.io/ballow-road-sand-screen-hub/">Ballow Road Sand &amp; Screen Hub</a> brings sand sports, outdoor cinema, markets and festivals into Luke’s beach-hub idea for Minjerribah.</p>
+<p>The <a href="https://auraofintelligence.github.io/sitemap.html">Aura site map</a> and <a href="https://auraofintelligence.github.io/project-atlas/site-map.html">Project Atlas</a> connect the wider collection of projects and imagined futures.</p>'''),
 ]
 
-PLAY = '''<section class="play-panel" aria-labelledby="play-title"><div><h2 id="play-title">Follow an interest</h2><p>Music, waves and the next journey.</p><div class="mood-buttons" role="group" aria-label="Choose an interest"><button type="button" data-mood="make" aria-pressed="true">Music</button><button type="button" data-mood="wander" aria-pressed="false">Waves</button><button type="button" data-mood="company" aria-pressed="false">Travel</button></div><div class="play-result" aria-live="polite" aria-atomic="true"><h3>From Glastonbury to Sway.</h3><p>The festival crew days left a lasting dream: to return as a performer. Sway is on its way, and i C. infinity is the music he wants to bring to life.</p></div></div><a class="round-link" href="music.html" aria-label="From Glastonbury to Sway">↗</a></section>'''
+PLAY = '''<section class="play-panel" aria-labelledby="play-title"><div><h2 id="play-title">Follow an interest</h2><p>Music, bodyboarding and world travel.</p><div class="mood-buttons" role="group" aria-label="Choose an interest"><button type="button" data-mood="make" aria-pressed="true">Music</button><button type="button" data-mood="wander" aria-pressed="false">Waves</button><button type="button" data-mood="company" aria-pressed="false">Travel</button></div><div class="play-result" aria-live="polite" aria-atomic="true"><h3>Music and Glastonbury</h3><p>i C. infinity is the music, Sway is the new instrument on its way, and performing at Glastonbury is the dream that began in 2004.</p></div></div><a class="round-link" href="music.html" aria-label="Music and Glastonbury">↗</a></section>'''
 
 def chapter_links():
-    return '<div class="chapter-index">'+''.join(f'<a href="{p["slug"]}.html"><span>{escape(p["title"])}</span><span aria-hidden="true">↗</span></a>' for p in PAGES[:-1])+'</div>'
+    return '<nav class="chapter-index" aria-label="Tiggy’s chapters"><h2>Chapters</h2>'+''.join(f'<a href="{p["slug"]}.html"><span>{escape(p["title"])}</span><span aria-hidden="true">↗</span></a>' for p in PAGES[:-1])+'</nav>'
 
 for i,p in enumerate(PAGES):
     prev=PAGES[(i-1)%len(PAGES)];nxt=PAGES[(i+1)%len(PAGES)]
     nav=''.join(f'<a href="{q["slug"]}.html"'+(' aria-current="page"' if q==p else '')+f'>{escape(q["title"])}</a>' for q in PAGES)
-    extra=PLAY if i==0 else chapter_links() if p['slug']=='sitemap' else ''
+    extra=PLAY if i==0 else ''
+    chapter_index=chapter_links() if p['slug']=='sitemap' else ''
     (ROOT/(p['slug']+'.html')).write_text(f'''<!doctype html>
 <html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="{escape(p['intro'],quote=True)}"><meta name="theme-color" content="#f7ff67"><title>{escape(p['title'])}{' | Tiggy Bestmann' if i else ' | Artist, fool and student of life'}</title><link rel="icon" href="assets/favicon.ico"><link rel="apple-touch-icon" href="assets/icon-180.png"><link rel="stylesheet" href="assets/site.css?v={VERSION}"><script defer src="assets/site.js?v={VERSION}"></script></head>
 <body id="top" class="theme-{p['colour']} {'home' if i==0 else ''}"><a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><a class="brand" href="index.html">Tiggy Bestmann<span class="brand-dot" aria-hidden="true"></span></a><div class="header-actions"><a class="partner-short" href="{escape(SIRE_URL,quote=True)}">Meet Sire ↗</a><button class="menu-button" type="button" aria-expanded="false" aria-controls="chapter-menu">Explore <span aria-hidden="true">+</span></button></div><nav id="chapter-menu" aria-label="Chapters" hidden>{nav}</nav></header>
-<main id="main"><section class="opening"><h1>{escape(p['title'])}</h1><p>{escape(p['intro'])}</p></section><figure class="hero"><img src="assets/{p['image']}.webp" alt="{escape(p['alt'],quote=True)}" width="1536" height="1024" fetchpriority="high"><figcaption>{escape(p['caption'])}</figcaption></figure>
+<main id="main"><section class="opening"><h1>{escape(p['title'])}</h1><p>{escape(p['intro'])}</p></section><figure class="hero"><img src="assets/{p['image']}.webp" alt="{escape(p['alt'],quote=True)}" width="1536" height="1024" fetchpriority="high"><figcaption>{escape(p['caption'])}</figcaption></figure>{chapter_index}
 <article class="prose" aria-label="{escape(p['title'],quote=True)}">{p['body']}</article>{extra}
 </main>
 <nav class="page-turn" aria-label="Previous and next pages"><a rel="prev" href="{prev['slug']}.html"><span>← Previous</span><strong>{escape(prev['title'])}</strong></a><a rel="next" href="{nxt['slug']}.html"><span>Next →</span><strong>{escape(nxt['title'])}</strong></a></nav>

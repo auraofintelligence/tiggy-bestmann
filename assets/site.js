@@ -10,9 +10,9 @@ menuButton.addEventListener('click',()=>setMenu(menu.hidden));
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!menu.hidden)setMenu(false,true);});
 document.addEventListener('click',event=>{if(!menu.hidden&&!menu.contains(event.target)&&!menuButton.contains(event.target))setMenu(false);});
 const moods={
-  make:['From Glastonbury to Sway.','The festival crew days left a lasting dream: to return as a performer. Sway is on its way, and i C. infinity is the music he wants to bring to life.','music.html','From Glastonbury to Sway'],
-  wander:['Bodyboarding epic waves.','An epic ride is on his wish list. Back on shore, the afternoon is still open: teasing, a game on the sand and a film after sunset.','water.html','Sand, salt and screen'],
-  company:['Fast travel, full days.','Every country and territory is the ambition. Work brings him into new places; people he wants to see again help shape the next journey.','out-about.html','Fast travel, full days']
+  make:['Music and Glastonbury','i C. infinity is the music, Sway is the new instrument on its way, and performing at Glastonbury is the dream that began in 2004.','music.html','Music and Glastonbury'],
+  wander:['Bodyboarding','An epic wave, the speed of the ride and women sharing the fun in the surf. Bodyboarding is part of the beach life behind Tiggy’s adventures.','water.html','Bodyboarding'],
+  company:['World travel','Every country and territory is the ambition. Work, events, people and invitations shape a route that stays open to new opportunities.','out-about.html','World travel']
 };
 document.querySelectorAll('[data-mood]').forEach(button=>button.addEventListener('click',()=>{
   document.querySelectorAll('[data-mood]').forEach(other=>other.setAttribute('aria-pressed',String(other===button)));

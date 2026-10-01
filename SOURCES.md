@@ -1,5 +1,15 @@
 # Character and source notes
 
+## Chapter coherence revision, 1 October 2026
+
+Luke identified a mismatch between page titles and content across the site. This revision reads the ten chapters as one character introduction, with a sequence from identity and personality to relationships, travel, bodyboarding, art, music, retreats and the wider universe. Existing URLs and image choices are preserved. Page titles, introductions, subheadings, captions, menu labels, previous/next links and homepage previews now follow the same subjects.
+
+The water chapter is titled Bodyboarding and stays with the approved surf concept, the epic-wave ambition and Luke's beach history. The invented game, sunset film and subsequent intimate evening have been removed. The retreat chapter describes the proposed five-day exploration and nine-day teacher-training formats; the optional fortnight pod is no longer narrated as an established episode. The relationships chapter presents broad attraction, pregnancy and group marriage potential without inventing a particular lover, return visit or household. Optional Ocean Master and Starmind cast are absent.
+
+The name and three-personality comparison sit together on the fool page. Art connects practical skills, Aura O.Z., memory mapping and flashbacks; music carries the Glastonbury history, expected Sway arrival and i C. infinity performance ambition. The speculative planetary horizon and the Forge's Worldbuilding Challenge Festival sit on Beyond Earth. The site map gives chapter navigation first, followed by creator, life, music and wider-project links. The Ballow Road proposal is described once there.
+
+Primary cross-link checks corrected two inherited descriptions. Aura's World Builder covers landscapes, planetary and cosmic models. Global Group Marriages describes the U.N. of Love thought experiment as the United Nations imagined as one cross-cultural marriage raising children together, rather than a generic network of marriages. The official NASA and Google DeepMind links were checked as present-day inspiration, without attributing speculative contact or dimensional travel to their work. All author-supplied history and expectations remain distinct from imagined artwork and future ambitions.
+
 ## Reader-facing prose review, 1 October 2026
 
 Luke rejected the water-page activity summary and asked for the same faults to be checked across all ten pages. The revision addresses adult readers discovering Tiggy and the developing science-fiction romantasy. Every chapter body was reviewed and revised, preserving its distinct subject, supplied history, character preferences and existing artwork. The water lead and shore paragraphs evoke the approved illustrative scene; they are editorial fiction, not quotations or claims that a particular encounter occurred. Practical surf advice was removed. The Ocean Master's description returns to the Forge's `wave_master` record: an island rider considering how to pass on her knowledge as her body changes. Embedded Forge prompts are source material, not directions governing the public prose.

@@ -1,5 +1,26 @@
 # Site review
 
+## Titles, content and reading order, 1 October 2026
+
+Luke rejected the mismatch between titles and chapter content. All ten page introductions and bodies were reread and revised together. The new reading order is:
+
+| Page title | Main subject |
+| --- | --- |
+| Tiggy Bestmann | Character introduction and links into his life |
+| The happy-go-lucky fool | Personality, name origin and the three creative personalities |
+| Love, desire and company | Adult attraction, first encounters and relationship possibilities |
+| World travel | Every country and territory, working trips and the responsive travel oracle |
+| Bodyboarding | The epic-wave ambition, shared surf and Luke's beach history |
+| Art, memory and Aura | Practical skills, Aura O.Z., digital twins and flashbacks |
+| Music and Glastonbury | Festival history, expected Sway arrival and the live music ambition |
+| Aura retreats | Proposed formats, creative work and social travel |
+| Beyond Earth | Planetary and contact horizons, worldbuilding and future play |
+| Site map | Chapter navigation followed by the wider life and project ecosystem |
+
+Removed the unestablished after-surf sequence, retreat cohort developments and specific lover/household assumptions. Each page now develops its named subject. The approved artwork is retained; captions describe visual concepts without adding emotional plot details. Menus, previous/next navigation, metadata and all three homepage previews use matching chapter titles. Existing URLs and anchors remain.
+
+Verification for this revision: all ten chapter bodies were read in the browser while following the revised previous/next route. The page menu and all three homepage previews showed matching titles and destinations. The normal site checks and JavaScript syntax check passed. A phone-layout check exposed clipping in long headings; a small shared heading-size adjustment now fits all ten pages at 320px, with Bodyboarding also visually checked at 390px. The normal browser viewport was restored. Publication is verified separately after pushing.
+
 ## Source connection correction, 1 October 2026
 
 Removed the unrelated Ocean Master paragraph from the water chapter after Luke identified that no source connects her to the approved image's three-person surf encounter. Optional Forge cast and worksheet ingredients are not automatically members of every scene. The correction is narrow; the approved image and other chapter prose are retained pending the separate source connection review.
