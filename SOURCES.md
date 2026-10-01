@@ -1,5 +1,11 @@
 # Character and source notes
 
+## Expanded universe scope, 1 October 2026
+
+Luke expanded the horizon to humanity across planets, Kardashev ambitions and encounters with extraterrestrial and extra-dimensional civilisations, with today’s global space, AI and robotics work as starting points. He also asked for proper depth on Global Group Marriages, the United Nations of Love marriage simulacrum and GAJRA Earth, then clarified that these belong within the scope of potential and are not necessarily its centre.
+
+The character pages retain that open scope and direct narrative voice. Current-work links were checked against NASA’s Moon to Mars strategy and Google DeepMind’s Gemini Robotics publication. Kardashev’s original 1964 paper supplies the energy-scale reference. Contact and extra-dimensional travel remain fictional possibilities; the site does not attribute those achievements to today’s researchers. The existing Global Group Marriages U.N. of Love and GAJRA Earth pages were reread for the marriage and planetary connections.
+
 ## Current direction
 
 Luke requested a separate partner site for Tiggy Bestmann on 29 September 2026: the happy-go-lucky fool, artist and student of life. It should be the same size as Australian Sire's ten-page site, with a different theme. Later steering specified fun and frivolous, no sketchbook treatment, younger adult women in their twenties and thirties, and pregnant women too.
