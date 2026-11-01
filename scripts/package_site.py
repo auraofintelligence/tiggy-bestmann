@@ -9,5 +9,7 @@ for page in ROOT.glob('*.html'):
     copy2(page, DEST / page.name)
 copytree(ROOT / 'assets', DEST / 'assets', dirs_exist_ok=True)
 copy2(ROOT / 'LICENCE.md', DEST / 'LICENCE.md')
+for name in ('robots.txt', 'sitemap.xml'):
+    copy2(ROOT / name, DEST / name)
 (DEST / '.nojekyll').touch()
 print('Prepared the public site in _site/.')
